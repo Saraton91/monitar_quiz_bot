@@ -1,0 +1,1502 @@
+[
+  {
+    "question": "Yevropa Valyuta Ittifoqining pul birligi boʻlmish yevro nechanchi yilda muomalaga  kiritildi?",
+    "options": [
+      "2002 yilda",
+      "1989 yila",
+      "1999 yilda",
+      "2000 yilda"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "\"To'lov balansi\" atamasi nimani anglatadi?",
+    "options": [
+      "Mamlakat eksporti va importi o'rtasidagi farq",
+      "Mamlakat xalqaro tushumlari va to'lovlari o'rtasidagi farq",
+      "To'g'ri javob yo'q",
+      "Mamlakatning aktivlari va majburiyatlari o'rtasidagi farq"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "EXW mol etkazib berish shartida importyorning vazifasi:",
+    "options": [
+      "Importyor tovarni tashish jarayonidagi barcha risklarni o‘z zimmasiga oladi",
+      "Importyor terminaldan tovarlarni oladi",
+      "Importyor belgilangan nuqtaga olib boradi",
+      "EXW atamasi xalqaro savdolarda qo'llanilmaydi"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Akkreditiv nima?",
+    "options": [
+      "Sug'urta hujjati",
+      "Tovar hujjati",
+      "Bank tomonidan sotuvchiga to'lovni kafolatlovchi hujjat",
+      "Transport hujjati"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Valyutali svop operatsiyalari qaysi muassasa faoliyatida koʻproq qoʻllaniladi?",
+    "options": [
+      "Markaziy bank",
+      "Valyuta birjasi",
+      "Kredit uyushmasi",
+      "Tijorat banki"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Valyutani tartibga solish – bu:",
+    "options": [
+      "Valyutalar va valyutaviy qimmatliklar bilan operatsiyalarni amalga oshirish tartibini belgilovchi tizim",
+      "Xalqaro hisob-kitob shakllaridan foydalanish tartibini belgilash",
+      "Valyutaviy qimmatliklar bilan operatsiyalarni amalga oshirish tartibini belgilovchi tizim",
+      "Xorijiy valyutalar bilan operatsiyalarni amalga oshirish tartibini belgilovchi tizim"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Xalqaro hisob-kitoblarda hisob-kitob markazi nima?",
+    "options": [
+      "Huquqiy bazani tartibga soluvchi",
+      "Banklar o'rtasidagi moliyaviy operatsiyalarni hisob-kitob qilish tizimi",
+      "Xalqaro to'lov tizimlarini nazorat qilish",
+      "Xalqaro operatsiyalarda ishtirok etuvchi tomonlarning shaxsini tasdiqlovchi tizim"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Kapital hisobining profitsiti nima?",
+    "options": [
+      "Mamlakatning joriy va kapital hisoblarida profitsit mavjud bo'lganda",
+      "Mamlakat chet elga to'laganidan ko'ra ko'proq moliyaviy investitsiyalar olganida",
+      "Qachonki, mamlakat chet eldan olingan moliyaviy investitsiyalardan ko'ra ko'proq xorijiy mamlakatlarga sarmoya kiritsa",
+      "Mamlakatda ham joriy, ham kapital hisoblarida kamomad mavjud bo'lganda"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Ixtisoslashgan moliyaviy kompaniya tomonidan mahsulotni sotuvchining sotib oluvchiga bo‘lgan pul talablarini sotib olish shaklidagi xalqaro kredit bu ...",
+    "options": [
+      "To'g'ri javob yo'q",
+      "faktoring",
+      "vekselli kredit",
+      "venchurli kredit"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Valyuta riski-bu:",
+    "options": [
+      "Kompaniyalarning valyuta operatsiyalaridan zarar ko‘rishi",
+      "Valyuta kurslarining tebranishi natijasida zarar ko‘rish xavfi",
+      "Valyuta pozitsiyalarining o‘zaro mos kelmasligi natijasida zarar ko‘rish",
+      "Banklarning valyuta operatsiyalaridan zarar ko‘rishi"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Qaysi davlat yalpi ichki mahsulot bo'yicha eng katta iqtisodiyotga ega?",
+    "options": [
+      "Rossiya",
+      "Gretsiya",
+      "Tailand",
+      "AQSh"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Joriy operatsiyalar hisobida qaysi element salbiy xarakterga ega?",
+    "options": [
+      "Bir tomonlama transferlardan tushum",
+      "Turizmdan tushum",
+      "Import",
+      "Eksport"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Evroobligatsiyalar jahondagi asosan qaysi fond birjalari listingiga kiritilgan holda oldi-sotdi qlinadi?",
+    "options": [
+      "Amsterdam va Nyu-York savdo tizimida",
+      "Tokio va Tsyurix birjalari",
+      "London va Lyuksemburg fond birjalari",
+      "Nyu-York va Frankfurt fond birjalari"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Xalqaro moliya korporastiyasi tomonidan kredit ajratilganda",
+    "options": [
+      "100 ming AQSh dollaridan ortiq boʻlsa hukumat kafolatlari talab qilinadi.",
+      "Xalqaro valyuta fondi kafolat beradi.",
+      "hukumat kafolatlari talab qilinadi.",
+      "hukumat kafolatlari talab qilinmaydi."
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Milliy valyutaning xorijiy valyutaga nisbatan revalvatsiyasi sodir bo‘lganda eksport va import mahsulotlari narxiga qanday ta’sir qiladi?",
+    "options": [
+      "ham eksport, ham import mahsulotlari narxi pasayadi",
+      "ham eksport, ham import mahsulotlari narxi ortadi",
+      "eksport mahsulotlari narxi ortadi, import mahsulotlari narxi esa pasayadi",
+      "import mahsulotlari narxi ortadi, eksport mahsulotlari narxi esa pasayadi"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Quyidagi keltirilganlardan qaysi biri Jahon banki guruhiga kirmaydi?",
+    "options": [
+      "Xalqaro rivojlanish assotsiatsiyasi",
+      "Xalqaro valyuta fondi",
+      "Xalqaro moliya korporatsiyasi",
+      "Xalqaro tiklanish va taraqqiyot banki"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Valyuta zaxiralarini diversifikatsiya qilish:",
+    "options": [
+      "Faqat barqaror valyutalarda zaxiralar tashkil qilish",
+      "Valyutalarni turli tarmoqlarga joylashtirish",
+      "Valyuta zaxiralarini “Nostro” vakillik hisobraqamlarida minimal bo‘lishini ta’minlash",
+      "Bir vaqtning o‘zida bir nechta xorijiy valyutalarda zaxiralar tashkil qilish"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Valyuta savdosida forvard shartnomasi nima?",
+    "options": [
+      "Faqat ma'lum shartlar bajarilgan taqdirdagina valyuta ayirboshlash shartnomasi",
+      "Kelgusi sanada oldindan belgilangan kurs bo'yicha valyutani sotib olish yoki sotish shartnomasi",
+      "Valyutalarni joriy kurs bo'yicha darhol sotish bo'yicha shartnoma",
+      "Valyutalarni o'zgaruvchan kurs bo'yicha almashtirish shartnomasi"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Valyuta inqirozi nima?",
+    "options": [
+      "Valyuta qiymatining keskin o'sishi",
+      "Vaqt o'tishi bilan valyuta qiymatining o'zgarishi",
+      "To'g'ri javob yo'q",
+      "Valyuta qiymatining keskin pasayishi"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Parij Konferensiyasidan keyin rasmiy asosga ega boʻlgan Parij valyuta tizimi nechanchi yilda vujudga kelgan?",
+    "options": [
+      "1860 yilda",
+      "1913 yilda",
+      "1925 yilda",
+      "1867 yilda"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Xalqaro moliya korporatsiyasi(XMK) qachon va nima maqsadda tuzilgan?",
+    "options": [
+      "1956 yilda rivojlanayotgan mamlakatlarga xususiy investitsiyalar oqimi barqarorligini ta’minlash maqsadida tuzilgandir.",
+      "1966 yilda rivojlanayotgan mamlakatlarda ishlab chiqarish barqarorligini ta’minlash maqsadida tuzilgandir.",
+      "1980 yilda rivojlanayotgan mamlakatlarda korporatsiyalarni tashkil etish maqsadida tuzilgandir.",
+      "1965 yilda rivojlanayotgan mamlakatlarga kreditlar berish maqsadida tuzilgandir."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Valyuta brokerining roli qanday?",
+    "options": [
+      "Xaridorlar va sotuvchilar o'rtasida valyuta operatsiyalarini osonlashtirish",
+      "Barcha javoblar to'g'ri",
+      "Valyuta bozorlari va valyuta kurslari bo'yicha maslahatlar berish",
+      "Mijozlar nomidan valyutalarni sotib olish va sotish"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Milliy valyuta kursining tebranish yo‘lakchasini belgilash qaysi valyuta kursi rejimiga kiradi?",
+    "options": [
+      "Qat’iy belgilangan kurs rejimi",
+      "Boshqariladigan suzish rejimi",
+      "Oraliq rejimlar",
+      "Erkin suzish rejimi"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Diskont valyuta siyosatining maqsadi nima?",
+    "options": [
+      "Vayuta birjasi faoliyatini tartibga solishni kuchayitih",
+      "Valyuta bozorlarida talab yuqori bo'lganda valyutalarni chiqarish va aksincha",
+      "Xalqaro amaliyotda diskont siyosati qo'llanilmaydi",
+      "Qayta moliyalashtirish stavkasini o'zgartirish orqali valyuta kursiga ta'sir ko'rsatish"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Valyuta optsionining maqsadi nima?",
+    "options": [
+      "Moliyaviy operatsiyalar uchun foiz stavkalari xavfini boshqarish",
+      "Moliyaviy operatsiyalar uchun kurs riskini boshqarish",
+      "Moliyaviy operatsiyalar uchun to'lov xavfini boshqarish",
+      "Moliyaviy operatsiyalar uchun siyosiy xavfni boshqarish"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Senoraj nima?",
+    "options": [
+      "Banklarning ssuda foizi shaklidagi daromadi",
+      "Markaziy bankning sof foydasi",
+      "Naqd pulni emissiya qilishdan olinadigan daromad",
+      "Valyutalarni sotib olish va sotish kursi o‘rtasidagi farq."
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Kollektiv valyutaga misol keltiring?",
+    "options": [
+      "Rossiya rubli",
+      "O'zbek so'mi",
+      "AQSH dollari",
+      "SDR va Yevro"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Konversion  operatsiyalarda  evroning  spot  kursi  verguldan  keyin nechta raqamgacha aniqlikda kotirovka qilinadi?",
+    "options": [
+      "4",
+      "3",
+      "1",
+      "2"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Jahon ssuda kapitallar bozori nechta o‘zaro bir-biri bilan bog‘liq asosiy sektorga ajraladi va ular qanday nomlanadi?",
+    "options": [
+      "uchta, valyuta, kredit va qimmatli qog‘ozlar",
+      "ikkita, pul va kapital bozori",
+      "beshta, kredit, derivativlar, investitsiya, valyuta, sug‘urta",
+      "to‘rtta, valyuta, kredit, qimmatli qog‘ozlar, hosila moliyaviy vositalar"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Bozorga asoslangan tizimda valyuta kursi nima bilan belgilanadi?",
+    "options": [
+      "To'g'ri javob yo'q",
+      "Markaziy bank siyosati",
+      "Tashqi siyosat",
+      "valyutaga bo'lgan talab va taklif orqali (erkin suzib yuruvchi)"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Korrespondent bank nima?",
+    "options": [
+      "Xalqaro investitsiya imkoniyatlarini taqdim etuvchi bank",
+      "Xalqaro operatsiyalar uchun faqat naqd pul depozitlari bilan shug'ullanadigan bank",
+      "Boshqa banklarda vakillik munosabatlarini o'rnatgan xalqaro hisob-kitob xizmatlarini ko'rsatuvchi bank",
+      "Xalqaro operatsiyalarni sug'urtalashga ixtisoslashgan bank"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Xalqaro kreditning to‘liq muddati tarkiban qayday muddatlardan tashkil topgan?",
+    "options": [
+      "kreditdan foydalanish va qarzni qoplash davri",
+      "imtiyozli davr va kreditdan foydalanish davri",
+      "kreditdan foydalanish va qarzni qoplash davri hamda imtiyozli davr",
+      "imtiyozli davr va qarzni qoplash davri"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Incoterms 2023 da CFR nimani anglatadi?",
+    "options": [
+      "Yuk va xavf",
+      "Narx va yuk tashish",
+      "Xarajat, yuk va xavf",
+      "To'g'ri javob yo'q"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Valyuta nazoratining maqsadini ko‘rsating.",
+    "options": [
+      "Ichki tovarlar bozorini himoya qilish",
+      "Xorijiy valyutalarga bo‘lgan talabni barqarorlashtirish",
+      "Valyuta operatsiyalarini amalga oshirishda valyuta qonunchiligiga rioya qilinishini nazorat qilish",
+      "Davlat byudjeti defitsitini qisqartirish"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Osiyo mintaqasida foydalaniladigan AQSh dollarlari (Osiyo dollari), Arab mamlakatlarida ishlatiladigan AQSh dollarlari (arab mamlakatlari dollari), neft mahsulotlari savdosida foydalaniladigan AQSh dollarlari (neft dollarlari)ni umumiy holda, xalqaro amaliyotda odatda nima deb nomlashadi?",
+    "options": [
+      "ta’minlanmagan dollarlar",
+      "zaxira valyuta",
+      "evrodollar (evrovalyuta)",
+      "AQShning inflyatsiya eksporti"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Eksport kredit agentligi nima?",
+    "options": [
+      "Chet el kompaniyalari uchun investitsiya imkoniyatlarini taqdim etuvchi davlat organi",
+      "Valyuta kurslarini tartibga soluvchi davlat organi",
+      "Xalqaro hisob-kitob xizmatlarini ko'rsatuvchi davlat organi",
+      "Xalqaro operatsiyalarni sug'urtalashni ta'minlaydigan davlat organi"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Yevropa valyuta iqtisodiy ittifoqini shakllantirish qaysi shartnomada koʻrsatilgan?",
+    "options": [
+      "Vena",
+      "Parij",
+      "Mastrixt",
+      "Genuya"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Kredit olishda, undan foydalanishda yoki xalqaro kreditni to‘lashda ma’lum bir qarz oluvchilarga iqtisodiy va siyosiy bosimni yuzaga keltiruvchi og‘ir va murakkab shartlarning qo‘yilishi bu ...",
+    "options": [
+      "kredit ekspantsiyasi",
+      "kredit diskriminatsiyasi",
+      "kredit protektsionizmi",
+      "kredit orqali iqtisodiy qaram qilish"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Bankning valyuta pozitsiyasi:",
+    "options": [
+      "Xorijiy valyutadagi majburiyatlarning talablardan yuqori bo‘lishi",
+      "Xorijiy valyutaladagi talablarning majburiyatlardan yuqori bo‘lishi",
+      "Xorijiy valyutadagi aktivlar va majburiyatlarning o‘zaro nisbati",
+      "Xorijiy valyutadagi talab va majburiyatlarning o‘zaro nisbati"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Jahon moliya bozoridagi spekulyativ operatsiyalar ...",
+    "options": [
+      "bozor likvidligini kamaytiradi va undagi narxlar barqarorligini oshiradi",
+      "bozor likvidligini va undagi narxlar barqarorligini kamaytiradi",
+      "bozor likvidligini va undagi narxlar barqarorligini oshiradi",
+      "bozor likvidligini oshiradi va undagi narxlar barqarorligini kamaytiradi"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Xalqaro hisob-kitoblarda hisob-kitob markazi nima?",
+    "options": [
+      "Banklar o'rtasidagi moliyaviy operatsiyalarni hisob-kitob qilish tizimi",
+      "Xalqaro to'lov tizimlarini nazorat qilish",
+      "Xalqaro operatsiyalarda ishtirok etuvchi tomonlarning shaxsini tasdiqlovchi tizim",
+      "Huquqiy bazani tartibga soluvchi"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Valyuta optsiyasi nima?",
+    "options": [
+      "Egasidan aktsiyani belgilangan narxda sotib olish yoki sotishni talab qiladigan moliyaviy shartnoma",
+      "Egasidan valyutani belgilangan narxda sotib olish yoki sotishni talab qiladigan moliyaviy shartnoma",
+      "Egasiga aktsiyani belgilangan narxda sotib olish yoki sotish majburiyatini emas, balki huquqni beruvchi moliyaviy shartnoma",
+      "Egasiga valyutani belgilangan narxda sotib olish yoki sotish majburiyati emas, balki huquq beruvchi moliyaviy shartnoma"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Valyuta tizimi bu",
+    "options": [
+      "Davlatlararo bitim yoki milliy qonunlarga muvofiq valyuta munosabatlarini tashkil qilish va boshqarish shakllarini oʻz ichiga oladi.",
+      "Milliy kompaniyalarning iqtisodiy barqarorligini oshirish natijasida jahon iqtisodiy tizimi ta’siriga tushishi hamda xalqaro operatsiyalar turi va ishlab chiqarish hajmini koʻpaytirish oqibatida.",
+      "rivojlanayotgan mamlakatlardagi tijorat banklari faoliyatini tartibga solish hisoblanadi",
+      "Muayyan mamlakatning boshqa mamlakatlar bilan xalqaro mehnat taqsimoti, fan va ishlab chiqarishni ixtisoslashtirish hamda boshqa omillarga asoslangan ishlab chiqarish, savdo, siyosiy va boshqa xil munosabatlari."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Jahon Banki guruhiga kiruvchi xalqaro tashkilotlar qaysi javobda toʻg‘ri koʻrsatilgan?",
+    "options": [
+      "Xalqaro tiklanish va taraqqiyot banki(XTTB), Xalqaro rivojlanish assotsiatsiyasi (XRA), Xalqaro moliya korporatsiyasi (XMK), Investitsiyalarni kafolatlash boʻyicha koʻp tomonlama agentlik (IKKA), Investitsion bahslarni hal qilish boʻyicha xalqaro markaz.",
+      "BMT, Xalqaro tiklanish va taraqqiyot banki(XTTB), Xalqaro rivojlanish assotsiatsiyasi (XRA), Xalqaro valyuta fondi(XVF), Investitsiyalarni kafolatlash boʻyicha koʻp tomonlama agentlik, Investitsion bahslarni hal qilish boʻyicha xalqaro markaz.",
+      "Xalqaro tiklanish va taraqqiyot banki(XTTB), Xalqaro rivojlanish assotsiatsiyasi (XRA), Xalqaro moliya korporatsiyasi (XMK), Investitsiyalarni kafolatlash boʻyicha koʻp tomonlama agentlik, EKOSOS, YuNKTAD, YuNIDO.",
+      "BMT, Xalqaro tiklanish va taraqqiyot banki(XTTB), Xalqaro rivojlanish assotsiatsiyasi (XRA), Xalqaro moliya korporatsiyasi (XMK), Osiyo taraqqiyot banki, Yevropa tiklanish va taraqqiyot banki."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Quyidagilardan qaysi biri xalqaro savdoning zamonaviy va kam qo'llaniladigan to‘lov usuli hisoblanadi?",
+    "options": [
+      "Bitcoin",
+      "Bank o'tkazmasi",
+      "Cheklar",
+      "Paypal"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Valyuta savdosida uzoq va qisqa pozitsiya o'rtasidagi farq nima?",
+    "options": [
+      "Ham uzoq, ham qisqa pozitsiyalar sotish uchun",
+      "Uzoq va qisqa pozitsiyalar ham sotib olish uchun",
+      "Uzoq pozitsiya sotish uchun, qisqa pozitsiya sotib olish uchun",
+      "Uzoq pozitsiya sotib olish uchun, qisqa pozitsiya sotish uchun"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Olingan xalqaro kreditni to‘lashni kafolatlanganligi uning qaysi tamoyiliga mos keladi?",
+    "options": [
+      "muddatlilik,",
+      "foiz to‘lashlilik",
+      "ta’minlanganlik",
+      "qaytarib berishlilik"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "SWIFT kodi nima?",
+    "options": [
+      "Muayyan bankni aniqlash uchun ishlatiladigan kod",
+      "Muayyan valyutani aniqlash uchun ishlatiladigan kod",
+      "Muayyan mamlakatni aniqlash uchun ishlatiladigan kod",
+      "Muayyan mahsulotni aniqlash uchun ishlatiladigan kod"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Maxsus qarzdorlik huquqi SDR qachondan muomalaga kiritilgan?",
+    "options": [
+      "1944 yildan",
+      "1969 yildan",
+      "1970 yildan",
+      "1968 yildan"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Genuya jahon valyuta tizimi nechanchi yillarda amal qildi?",
+    "options": [
+      "1891-1925 yillarda",
+      "1922-1929 yillarda",
+      "1867-1914 yillarda",
+      "1944-1972 yillarda"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Islom taraqqiyot bankining asosiy ofisi qayerda joylashgan?",
+    "options": [
+      "Pokistondagi Islomobod shahrida",
+      "Saudiya aradistonidagi Jidda shahrida",
+      "Eronda",
+      "Misrda"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Qaysi davlat rasmiy valyuta sifatida evrodan foydalanadi?",
+    "options": [
+      "Buyuk Britaniya",
+      "Yaponiya",
+      "AQSh",
+      "Gretsiya"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Valyuta savdosida zararni to'xtatish buyrug'i nima?",
+    "options": [
+      "Bozor narxi oldindan belgilangan darajaga etganida savdo pozitsiyasiga kirish uchun buyurtma",
+      "Bozor narxi o'zgarganda savdo pozitsiyasining hajmini moslashtirish buyrug'i",
+      "Barcha ochiq savdo pozitsiyalarini darhol yopish buyrug'i",
+      "Bozor narxi oldindan belgilangan darajaga yetganda, savdo pozitsiyasini yopish buyrug'i"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Baho valyutasi bu …",
+    "options": [
+      "kredit taqdim etilayotgan valyuta",
+      "tovarga haqiqatda haq to'lanayotgan valyuta",
+      "sug'urta amalga oshirilgan valyuta",
+      "tovarning bahosi belgilangan valyuta"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Incoterms nimani anglatadi?",
+    "options": [
+      "Xalqaro konsignatsiya shartlari",
+      "Xalqaro tashuvchilik shartlari",
+      "Xalqaro shartnoma shartlari",
+      "Xalqaro tijorat (savdo) shartlari"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Davlat byudjeti defitsitining YaIMga nisbatan belgilangan me’yoriy darajasini ko‘rsating.",
+    "options": [
+      "0,03",
+      "0.1",
+      "0.07",
+      "0.05"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Hukumat yoki mahalliy organlar tomonidan chiqarilgan evroobligatsiyalar yirik transmilliy korporatsiyalar, xalqaro tashkilotlar chiqaradigan evroboligatsiyalardan nimasi bilan farq qiladi?",
+    "options": [
+      "uzoq muddatli bo‘ladi",
+      "foizi qat’iy belgilangan bo‘ladi",
+      "davlat kafolati talab etiladi",
+      "zaxira shakllantiriladi"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Milliy valyuta - bu …",
+    "options": [
+      "xorijiy (chet el) mamlakatining pul birligi",
+      "emissiya qilinmaydigan valyuta",
+      "xalqaro valyuta-kredit tashkilotlari tomonidan chiqariladi",
+      "emitent mamlakatning pul birligi"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Valyuta devalvatsiyasi nima?",
+    "options": [
+      "Hukumat o'z valyutasining qiymatini boshqa valyutalarga nisbatan oshirganda",
+      "Hukumat o'z valyutasining qadrini boshqa valyutalarga nisbatan pasaytirganda, bunda kurs oshadi",
+      "Hukumat eski valyutani almashtirish uchun yangi valyutani joriy qilganda",
+      "Hukumat o'z valyutasidan foydalanishni bekor qilganda va boshqa valyutani qabul qilganda"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Milliy valyuta kursining tebranish yo‘lakchasini belgilash qaysi valyuta kursi rejimiga kiradi?",
+    "options": [
+      "Belgilangan kursi rejimi",
+      "Boshqariladigan suzish rejimi",
+      "Erkin suzish rejimi",
+      "Qat’iy belgilangan kurs rejimi"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Zaxira hisobining rasmiy zaxira aktivlari kichik toifasiga qaysi band kiradi?",
+    "options": [
+      "Chet el valyutasi",
+      "Maxsus qarz olish huquqi (SDR)",
+      "Oltin",
+      "Barcha javoblar to'g'ri"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Quyidagi valyutalardan qaysi biri “xalqaro rezerv valyuta” maqomiga ega emas?",
+    "options": [
+      "Yaponiya ieni",
+      "Evro",
+      "AQSh dollari",
+      "Kanada dollari"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Konversion operatsiyalarda O‘zbek so‘mining spot kursi verguldan keyin nechta raqamgacha aniqlikda kotirovka qilinadi?",
+    "options": [
+      "4",
+      "2",
+      "1",
+      "3"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Milliy valyutani devalvatsiya qilish uchun qaysi omil asos boʻlib xizmat qiladi?",
+    "options": [
+      "Muomaladagi valyuta massasining koʻpayib ketishi",
+      "Milliy valyuta kursining real valyuta kursiga nisbatan past boʻlishi",
+      "Milliy valyuta kursining real valyuta kursiga nisbatan yuqori boʻlishi",
+      "Importga zaruratning oshishi"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Xalqaro moliya bozorining ish vaqti rejimi ... davom etadi.",
+    "options": [
+      "London vaqti bilan soat 400 dan 2200 gacha",
+      "London vaqti bilan soat 600 dan 2000 gacha",
+      "kecha va kunduzi to‘xtamasdan",
+      "London vaqti bilan soat 800 dan 1800 gacha"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Quyidagilardan qaysi biri barqaror valyutaga xos emas?",
+    "options": [
+      "Past inflyatsiya darajasi",
+      "Kuchli iqtisodiy o'sish",
+      "Valyuta kursining doimiy o'zgarishi",
+      "Yuqori valyuta zaxiralari"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Valyuta qimmatliklarining muomalada bo‘lish tartibini, valyuta qimmatliklariga egalik qilish, ulardan foydalanish va ularni tasarruf etish qoidalarini belgilash yuzasidan valyutani tartibga solish organining faoliyati",
+    "options": [
+      "valyutani nazorat qilish",
+      "valyutani tartibga solish",
+      "ochiq valyuta ozitsiyasini yuritish",
+      "valyuta operatsiyalari monitoringi"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "XVF qaysi konferentsiyada tashkil etilgan?",
+    "options": [
+      "Parij konferentsiyasida",
+      "Genuya konferentsiyasida",
+      "Yamayka konferentsiyasida",
+      "Bretton- Vuds konferentsiyasida"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Islom taraqqiyot bankining asosiy ofisi qayerda joylashgan?",
+    "options": [
+      "Pokistondagi Islomobod shahrida",
+      "Misrda",
+      "Eronda",
+      "Saudiya aradistonidagi Jidda shahrida"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Xalqaro hisob-kitoblarda nostro hisob nima?",
+    "options": [
+      "Bank tomonidan o'z valyutasida saqlanadigan hisobvaraq",
+      "Hukumat tomonidan xorijiy valyutadagi hisobvaraq",
+      "Bankning xorijiy valyutadagi hisobvaraqlari",
+      "Jismoniy shaxsning xorijiy valyutadagi hisobvaraqlari"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "To‘lov balansi aktiv bo‘lganda qo‘llaniladigan valyutaviy cheklov:",
+    "options": [
+      "Xorijiy valyutalarni olib chiqishni limitlashtirish",
+      "Tashqi qarzni to‘lashni to‘xtatish",
+      "Oltinni olib chiqishni (sotishni) limitlashtirish",
+      "Milliy valyutani xorijliklarga forvard sharti bo‘yicha sotishni cheklash"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Xorijiy valyuta - bu …",
+    "options": [
+      "xalqaro valyuta-kredit tashkilotlari tomonidan chiqariladi",
+      "emitent mamlakatning pul birligi",
+      "emissiya qilinmaydigan valyuta",
+      "xorijiy (chet el) mamlakatining pul birligi"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "O'zbekiston uchun AQSh dollari …",
+    "options": [
+      "milliy valyuta hisoblanadi",
+      "mintaqaviy valyuta hisoblanadi",
+      "kollektiv valyuta hisoblanadi",
+      "xorijiy valyuta hisoblanadi"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Kapital bilan bog'liq operatsiyalar hisobi nima?",
+    "options": [
+      "Mamlakat hukumati tomonidan amalga oshirilgan barcha moliyaviy investitsiyalar summasi",
+      "Mamlakatdagi barcha xorijiy investitsiyalar summasi",
+      "Mamlakatga import qilingan barcha tovarlar va xizmatlarning summasi",
+      "Mamlakat va dunyoning qolgan qismi o'rtasidagi barcha daromadlar va o'tkazmalarning rekordi"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Joriy operatsiyalar hisobi taqchilligi nima?",
+    "options": [
+      "Mamlakat importdan ko'ra ko'proq mahsulot va xizmatlarni eksport qilganda",
+      "Agar mamlakat eksport qilganidan ko'ra ko'proq tovarlar va xizmatlarni import qilsa",
+      "Mamlakatning joriy va kapital hisoblarida profitsit mavjud bo'lganda",
+      "Mamlakatda ham joriy, ham kapital hisoblarida kamomad mavjud bo'lganda"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "SWIFT nima?",
+    "options": [
+      "Xalqaro tranzaktsiyalar uchun ishlatiladigan kriptovalyuta",
+      "Investitsion imkoniyatlarning bir turi",
+      "Xalqaro sug'urta polisining bir turi",
+      "Xalqaro hisob-kitoblar uchun foydalaniladigan xabarlar tizimi"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Mamlakatimiz tijorat banklari o'rtasida valyutalar oldi-sotdisi … amalga oshiriladi",
+    "options": [
+      "Valyuta birjasida",
+      "Ma'lum bir bankning valyuta ayirboshlash shaxobchasida",
+      "Ma'lum bir bankning valyuta ayirboshlash bankomatida",
+      "Tijorat banklari o'rtasida valyutalar savdosi amalga oshirilmaydi"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Xalqaro valyuta fondi qachon tashkil topgan?",
+    "options": [
+      "1944 yil 27 dekabr",
+      "1940 yil 27 dekabr",
+      "1950 yil 27 dekabr",
+      "1960 yil 27 dekabr"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Joriy operatsiyalar hisobi nima?",
+    "options": [
+      "Mamlakatga import qilingan barcha tovarlar va xizmatlarning tafovuti",
+      "Mamlakat va dunyoning qolgan qismi o'rtasidagi barcha daromadlar va o'tkazmalarning summasi",
+      "Mamlakatdan eksport qilinadigan barcha tovarlar va xizmatlarning summasi",
+      "Mamlakatdagi barcha xorijiy investitsiyalar summasi"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Parij valyuta tizimini parokandalikka uchraganiga nima sabab boʻldi?",
+    "options": [
+      "Versal tinchlik shartnomasida pul munosabatlarining mavqei oshishi",
+      "Birinchi jahon urushining boshlanishi va pul mablag’larini yetishmasligi",
+      "Koʻplab oltin zahiralarini bambardimon qilinishi",
+      "Jahon moliyaviy inqirozining boshlanishi"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Incoterms maqsadi nima?",
+    "options": [
+      "Mahalliy savdogarlar o'rtasidagi moliyaviy munosabatlarni tartibga solish",
+      "Xaridorlar va sotuvchilar o'rtasidagi sug'urta munosabatlarni rivojlantirish",
+      "To'g'ri javob yo'q",
+      "Xalqaro savdolarda shartnomalarni tartibga solish"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Valyuta savdosida spot bitim nima?",
+    "options": [
+      "Kelgusi sanada oldindan belgilangan kurs bo'yicha valyutani sotib olish yoki sotish bo'yicha bitim",
+      "Faqat ma'lum shartlar bajarilgan taqdirdagina valyutalarni almashtirish bo'yicha operatsiya",
+      "Valyutalarni o'zgaruvchan kurs bo'yicha almashtirish bo'yicha operatsiya",
+      "Joriy kurs bo'yicha valyutani sotib olish yoki sotish bo'yicha operatsiya, etkazib berish va to'lash odatda ikki ish kuni ichida amalga oshiriladi."
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Osiyo taraqqiyot banki qachon tashkil topgan?",
+    "options": [
+      "1975 yil",
+      "1966 yil",
+      "1991 yil",
+      "1983 yil"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Valyuta operatsiyasi nima?",
+    "options": [
+      "Mamlakatlar o'rtasida xizmatlar almashinuvini o'z ichiga olgan bitim",
+      "Mamlakatlar o'rtasida tovar ayirboshlashni nazarda tutuvchi bitim",
+      "Bir valyutani boshqa valyutaga almashtirish bilan bog'liq operatsiya",
+      "Mamlakatlar o'rtasida qimmatli qog'ozlar yoki obligatsiyalar almashinuvini o'z ichiga olgan bitim"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Shveytsariyaning pul birligi nima?",
+    "options": [
+      "Dollar",
+      "frank",
+      "Funt",
+      "evro"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Bir valyutaning qiymati (kursi) boshqasiga nisbatan oshsa, nima bo'ladi?",
+    "options": [
+      "Import qimmatlashadi, eksport esa arzonlashadi",
+      "Import arzonlashadi, eksport esa qimmatlashadi",
+      "Import ham, eksport ham arzonlashadi",
+      "Import ham, eksport ham qimmatlashadi"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Oltin demonitizasiya qilish jarayoni rasman tugallangan jahon valyuta tizimini koʻrsating?",
+    "options": [
+      "1867 yil Parij",
+      "1944 yil Bretton-Vudds",
+      "1922 yil Genuya",
+      "1976 yil Yamayka"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Evrozona nima?",
+    "options": [
+      "Evrodan valyuta sifatida foydalanadigan davlatlar guruhi",
+      "Umumiy siyosiy tizimga ega mamlakatlar guruhi",
+      "Erkin savdo shartnomalariga ega bo'lgan mamlakatlar guruhi",
+      "Umumiy tilga ega mamlakatlar guruhi"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Valyuta bozorida arbitraj nima?",
+    "options": [
+      "Chet el kompaniyalarining aktsiyalari va obligatsiyalari bilan savdo qilish",
+      "To'g'ri javob yo'q",
+      "Foyda olish uchun chet el obligatsiyalariga investitsiya qilish",
+      "Foyda olish uchun turli bozorlardagi valyuta kurslari farqidan foydalanish"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Quyidagilardan qaysi biri kapital hisobi operatsiyasiga misol bo‘la oladi?",
+    "options": [
+      "Tovar va xizmatlarni sotish",
+      "Chet el kompaniyalariga investitsiyalar",
+      "Bir mamlakat aholisining sayohat xarajatlari.",
+      "Import uchun to'lov"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Lloyd nima?",
+    "options": [
+      "yirik sanoat yoki tijorat kompaniyalari tomonidan ularga tegishli barcha qaltisliklarni yoki ularning bir qismini sug’urtalash maqsadlarida ta’sis etiluvchi sug’urta kompaniyalari",
+      "Jahon moliya markazi sifatida London Siti hududida joylashgan xalqaro sug’urta bozori",
+      "sug’urtalanuvchining \"harakatlari, xatolari va nuqsonlari\"dan kelib chiqqan uchinchi shaxslarning moliyaviy yoʻqotishlari bilan bog’liq ma’suliyat sug’urtasi turi",
+      "Xalqaro sug’urta operatsiyalaridan eng keng tarqalgan turi"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Dunyoda iqtisodiyoti taraqqiy topgan mamlakatlarni davlat qarzlarini tartibga solish uchun tashkil etilgan bank qanday ataladi?",
+    "options": [
+      "Parij klubi",
+      "Tokio klubi",
+      "Vashington klubi",
+      "Frankfurt klubi"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Valyuta urushi nima?",
+    "options": [
+      "Mamlakatlar o'zaro iqtisodiy o'sishga erishish uchun pul-kredit siyosatini muvofiqlashtirganda",
+      "Mamlakatlar siyosiy keskinlik tufayli bir-biri bilan savdo qilishdan bosh tortganda",
+      "Mamlakatlar xalqaro savdoda raqobatbardosh ustunlikka erishish uchun valyuta kurslarini manipulyatsiya qilganda",
+      "Qachonki davlatlar eng kuchli valyutaga ega bo'lish uchun raqobatlashsa"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Konosamentning maqsadi nima?",
+    "options": [
+      "Tovar sifatini tasdiqlovchi hujjatlarni taqdim etish",
+      "Tovar jo'natilganligini tasdiqlovchi hujjatlarni taqdim etish",
+      "Tovarlar uchun to'lovni tasdiqlovchi hujjatni taqdim etish",
+      "Tovarga egalik huquqini tasdiqlovchi hujjatlarni taqdim etish"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Milliy valyuta birligining xorijiy valyutaga nisbatan baxosi…",
+    "options": [
+      "spot kurs deyiladi",
+      "kros kurs deyiladi",
+      "egri kotirovkalash deyiladi",
+      "toʻg’ri  kotirovkalash deyiladi"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Dunyoda xususiy sektor korxonalari o'rtasida qarzlarni tartibga solish uchun tashkil etilgan bank qanday ataladi?",
+    "options": [
+      "Tokio klubi",
+      "Frankfurt klubi",
+      "Vashington klubi",
+      "London klub"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Kredit diskriminatsiyasi nima?",
+    "options": [
+      "kredit boʻyicha foizlarni toʻlashdan bosh tortish",
+      "bu kredit boʻyicha foizlarni toʻlashga qobiliyatsizlikdir.",
+      "mamlakatlarning xarid bozori raqobati uchun koʻrash quroli hamda kapitalni joylash sohasi, xom ashyolar manbalari, ITT sohasidagi yutuqlardir.",
+      "bu kredit olishda, undan foydalanishda yoki xalqaro kreditni toʻlashda ma’lum bir qarz oluvchilarga iqtisodiy va siyosiy bosimni yuzaga keltiruvchi, og’ir va qiyin shartlarni qoʻyishdir."
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Xalqaro moliya korporastiyasi tomonidan kredit ajratilganda",
+    "options": [
+      "hukumat kafolatlari talab qilinadi.",
+      "Xalqaro valyuta fondi kafolat beradi.",
+      "hukumat kafolatlari talab qilinmaydi.",
+      "100 ming AQSh dollaridan ortiq boʻlsa hukumat kafolatlari talab qilinadi."
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "XVF qaysi konferentsiyada tashkil etilgan?",
+    "options": [
+      "Yamayka konferentsiyasida",
+      "Genuya konferentsiyasida",
+      "Parij konferentsiyasida",
+      "Bretton- Vuds konferentsiyasida"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Majburiy valyuta sotish kichik biznes vakillari uchun qancha stavkada belgilangan",
+    "options": [
+      "1",
+      "0.3",
+      "Majburiy sotishdan ozod qilingan",
+      "0.5"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Xalqaro moliya bozoriga to‘g‘ridan-to‘g‘ri ishtirok etuvchi sub’ektlarning xarajatlari ...",
+    "options": [
+      "vositachi orqali qatnashgandan ko‘ra yuqori bo‘ladi",
+      "vositachi orqali qatnashgandan ko‘ra kam bo‘ladi",
+      "vositachilik xarajatlariga nisbatan olganda kam, yoki ko‘pligini aytib bo‘lmaydi",
+      "vositachi orqali qatnashgan bilan bir xil bo‘ladi"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Valyuta savati nima?",
+    "options": [
+      "Valyuta chayqovchiligi uchun ishlatiladigan valyutalar to'plami",
+      "Diversifikatsion maqsadlarda foydalaniladigan valyutalar to'plami",
+      "Valyuta kollektori tomonidan to'plangan jismoniy valyutalar to'plami",
+      "Valyuta pozitsiyalarining o‘zaro mos kelmasligi natijasida zarar ko‘rish"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Valyuta bozorida valyuta juftligi nima?",
+    "options": [
+      "Valyuta va aktsiya o'rtasidagi ayirboshlash kursi",
+      "Ikki valyuta o'rtasidagi almashuv kursi",
+      "Valyuta va tovar o'rtasidagi ayirboshlash kursi",
+      "To'g'ri javob yo'q"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Spot shartnomasi nima?",
+    "options": [
+      "Joriy kurs bo'yicha valyutani sotib olish yoki sotish shartnomasi",
+      "Aktsiyalarni joriy bozor narxida sotib olish yoki sotish shartnomasi",
+      "Joriy bozor narxida tovarlarni sotib olish yoki sotish shartnomasi",
+      "Ko'chmas mulkni joriy bozor narxida sotib olish yoki sotish shartnomasi"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Mamlakat valyuta siyosatini qaysi tashkilot olib boradi?",
+    "options": [
+      "Tijorat banklari",
+      "Valyuta birjasi",
+      "Transmilliy korporatsiyalar va institutsional investorlar",
+      "Markaziy bank"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Veksel nima?",
+    "options": [
+      "Chet el kompaniyasiga investitsiyalar turi",
+      "Belgilangan miqdordagi pulni to'lash uchun yozma buyruq",
+      "Xalqaro yuk tashish uchun sug'urta polisi turi",
+      "Xalqaro operatsiyalar uchun ishlatiladigan kriptovalyuta turi"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Milliy va jahon valyuta tizimlarining oraliq elementi hisoblanib, mamlakatlar hududiy guruhi integratsiyasiga xizmat qiladigan tizimga… deyiladi",
+    "options": [
+      "Hududiy valyuta tizimi",
+      "Jahon valyuta tizimi",
+      "Pereferil valyuta tizimi",
+      "Milliy valyuta tizimi"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Davlat tashqi qarzining YaIMga nisbatan belgilangan me’yoriy darajasini ko‘rsating.",
+    "options": [
+      "0.25",
+      "0.5",
+      "0,6",
+      "1"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Kredit valyutasi bu …",
+    "options": [
+      "tovarning bahosi belgilangan valyuta",
+      "sug'urta amalga oshirilgan valyuta",
+      "kredit taqdim etilayotgan valyuta",
+      "tovarga haqiqatda haq to'lanayotgan valyuta"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Pip nima?",
+    "options": [
+      "Valyuta narxi va oltin narxi o'rtasidagi farq",
+      "Valyuta bozoridagi eng kichik o'lchov birligi",
+      "Kun davomida sotiladigan valyutaning eng yuqori va eng past narxi o'rtasidagi farq",
+      "Valyutani sotib olish va sotish narxi o'rtasidagi farq"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Xalqaro hisob-kitoblarda nostro hisob nima?",
+    "options": [
+      "Jismoniy shaxsning xorijiy valyutadagi hisobvaraqlari",
+      "Bankning xorijiy valyutadagi hisobvaraqlari",
+      "Hukumat tomonidan xorijiy valyutadagi hisobvaraq",
+      "Bank tomonidan o'z valyutasida saqlanadigan hisobvaraq"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Yevropa valyuta tizimi nechanchi yilda vujudga kelgan?",
+    "options": [
+      "1976 yilda",
+      "1979 yilda",
+      "1991 yilda",
+      "1922 yilda"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Valyuta kursiga qaysi omil ta'sir qilmaydi?",
+    "options": [
+      "Mamlakat aholisi soni",
+      "Mamlakatning savdo balansi",
+      "Mamlakatdagi foiz stavkalari",
+      "Mamlakatning siyosiy barqarorligi"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Xalqaro valyuta fondi qanday tashkilot?",
+    "options": [
+      "Xalqaro rivojlanish   banki",
+      "Xalqaro yordam berish agentligi",
+      "Xalqaro valyuta tizimini isloh qiluvchi tashkilot",
+      "Mikrokredit beruvchi tashkilot"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Qaysi davlat xalqaro hisob-kitoblarda eng katta ishtirokchi hisoblanadi?",
+    "options": [
+      "Gretsiya",
+      "Rossiya",
+      "AQSh",
+      "Yaponiya"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Mamlakatning to'lov balansida joriy operatsiyalar hisobi taqchilligi quyidagilarni anglatadi:",
+    "options": [
+      "Mamlakat eksportdan olgan daromadidan ko‘ra importga ko‘proq mablag‘ sarflaganda",
+      "Mamlakat ichki investitsiyalarga xorijiy investitsiyalardan ko'ra ko'proq mablag' sarflamoqda",
+      "Mamlakat eksportdan importga sarflagandan ko'ra ko'proq daromad olganda",
+      "Mamlakat chet el investitsiyalaridan ichki investitsiyalarga sarflagandan ko'ra ko'proq daromad olmoqda"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Osiyo taraqqiyot banki prezidenti necha yil muddatga saylanadi?",
+    "options": [
+      "10 yil",
+      "5 yil",
+      "1 yil",
+      "3 yil"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Kollektiv valyuta - bu …",
+    "options": [
+      "xorijiy (chet el) mamlakatining pul birligi",
+      "emitent mamlakatning pul birligi",
+      "xalqaro valyuta-kredit tashkilotlari tomonidan chiqariladi",
+      "emissiya qilinmaydigan valyuta"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Valyutani nazorat qiluvchi organlarning valyutani tartibga solish to‘g‘risidagi qonun hujjatlari talablariga rezidentlar va norezidentlar tomonidan rioya etilishini ta’minlashga qaratilgan faoliyati bu…",
+    "options": [
+      "ochiq valyuta ozitsiyasini yuritish",
+      "yopiq valyuta ozitsiyasini yuritish",
+      "valyutani nazorat qilish",
+      "valyuta operatsiyalari monitoringi"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "SDR bu –",
+    "options": [
+      "Xalqaro valyuta fondi toʻlov birliklari sifatida va maxsus xisob raqamlarda yozish yoʻli bilan xalqaro naqdsiz hisob-kitoblarni amalga oshirishda qoʻllaniladi.",
+      "Yevropa Ittifoqi doirasidagi pul birligi",
+      "Xalqaro valyuta fondi tomonidan kreditlashning asosiy shakli",
+      "Jahon banki guruhi tomonidan kreditlashning asosiy shakli"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Qaysi tizimga kelib oltin oʻzining oxirgi pul funksiyasini saqlab qoldi?",
+    "options": [
+      "Yamayka tizimida",
+      "Oltin hali oʻzining oxirgi pul funksiyasini saqlab qolgani yoʻq",
+      "Bretton Vuds tizimida",
+      "Genuya tizimida"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Quyidagi usullarning qaysi biri to‘lov balansi defitsitini qoplashning so‘nggi usuliga kiradi?",
+    "options": [
+      "Xalqaro kreditlar olish",
+      "Portfelli investitsiyalarni jalb etish",
+      "Oltin zaxiralari hisobidan qoplash",
+      "To‘g‘ridan-to‘g‘ri investitsiyalarni jalb etish"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Valyuta spekulyatsiyasi nima?",
+    "options": [
+      "Valyuta kurslarining o'zgarishidan foyda olish umidida valyutalarni sotib olish va sotish harakati",
+      "Valyutalarni uzoq vaqt davomida sotib olish va ushlab turish harakati",
+      "Turli mamlakatlarda aktsiyalarni sotib olish va sotish harakati",
+      "Turli mamlakatlarda tovarlarni sotib olish va sotish harakati"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Xalqaro moliya bozori ko‘lamining kengayishi ... uchun foydali, ya’ni afzalliklari ko‘p hisoblanadi.",
+    "options": [
+      "yuqori daromadli davlatlar",
+      "sanoati rivojlangan davlatlar",
+      "neft import qiluvchi rivojlanayotgan davlatlar",
+      "bozor iqtisodiyotiga o‘tish davridagi mamlakatlar"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Moliyaviy hisobdagi investitsiyalarning qaysi turi chet el korxonasining qimmatli qog'ozlariga qiziqishni o'z ichiga oladi?",
+    "options": [
+      "Portfel investitsiyalari",
+      "Boshqa investitsiyalar",
+      "Zaxira hisobi",
+      "To'g'ridan-to'g'ri investitsiyalar"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Joriy operatsiyalar hisobida qaysi element ijobiy hisoblanadi?",
+    "options": [
+      "Import",
+      "Turizm xarajatlari",
+      "Bir tomonlama transferlar bo'yicha xarajatlar",
+      "Eksport"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Jahon banki guruhiga bugungi kunda nechta oʻzaro aloqadorlikda faoliyat yurituvchi tashkilotlar kiradi?",
+    "options": [
+      "10ta",
+      "7ta",
+      "3ta",
+      "5ta"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Valyuta interventsiyasi nima maqsadda o‘tkaziladi?",
+    "options": [
+      "Xalqaro amaliyotda valyuta intervensiyasi qo'llanilmaydi",
+      "Milliy valyuta kursining keskin tebranishlariga barham berish maqsadida",
+      "Inflyatsiyani jilovlash uchun",
+      "Milliy valyutaning barqarorligini ta’minlash maqsadida"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Xalqaro moliya korporatsiyasi(XMK) qachon va nima maqsadda tuzilgan?",
+    "options": [
+      "1956 yilda rivojlanayotgan mamlakatlarga xususiy investitsiyalar oqimi barqarorligini ta’minlash maqsadida tuzilgandir.",
+      "1965 yilda rivojlanayotgan mamlakatlarga kreditlar berish maqsadida tuzilgandir.",
+      "1980 yilda rivojlanayotgan mamlakatlarda korporatsiyalarni tashkil etish maqsadida tuzilgandir.",
+      "1966 yilda rivojlanayotgan mamlakatlarda ishlab chiqarish barqarorligini ta’minlash maqsadida tuzilgandir."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Veksel nima?",
+    "options": [
+      "Xalqaro yuk tashish uchun sug'urta polisi turi",
+      "Xalqaro operatsiyalar uchun ishlatiladigan kriptovalyuta turi",
+      "Belgilangan miqdordagi pulni to'lash uchun yozma buyruq",
+      "Chet el kompaniyasiga investitsiyalar turi"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Xalqaro pul o'tkazmasi odatda qancha vaqtni oladi?",
+    "options": [
+      "1-2 oy",
+      "3-5 ish kuni",
+      "1-2 hafta",
+      "1-2 ish kuni"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Valyuta optsionining maqsadi nima?",
+    "options": [
+      "Moliyaviy operatsiyalar uchun siyosiy xavfni boshqarish",
+      "Moliyaviy operatsiyalar uchun to'lov xavfini boshqarish",
+      "Moliyaviy operatsiyalar uchun foiz stavkalari xavfini boshqarish",
+      "Moliyaviy operatsiyalar uchun kurs riskini boshqarish"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Forvard va spot kurs o'rtasidagi farq nima?",
+    "options": [
+      "Forvard va spot kurs o'rtasida hech qanday farq yo'q.",
+      "Forvard kursi jismoniy valyutaning ayirboshlash kursi, spot kurs esa elektron valyutaning ayirboshlash kursidir.",
+      "Forvard kursi kelajakdagi ayirboshlash kursi, spot ayirboshlash kursi esa joriy kurs hisoblanadi.",
+      "Forvard kursi joriy ayirboshlash kursi, spot ayirboshlash kursi esa kelajakdagi kurs hisoblanadi."
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Oʻzbekiston Respublikasi “Tashqi iqtisodiy faoliyat toʻg’risida”gi qonuni yangi tahrirda nechanchi yilda qabul qilingan?",
+    "options": [
+      "1992 yil",
+      "1993 yil",
+      "1995 yil",
+      "2000 yil"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Valyuta kursining maqsadi nima?",
+    "options": [
+      "Kreditlar bo'yicha foiz stavkalarining qiymatini aniqlash",
+      "Bir valyutaning boshqa valyutaga nisbatan qiymatini aniqlash",
+      "Jamiyat aktsiyalarining qimmatli qog'ozlar bozoridagi qiymatini aniqlash",
+      "Mamlakatdagi tovarlar va xizmatlar qiymatini aniqlash"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Forex savdosi nima?",
+    "options": [
+      "Valyuta bozorida valyutalarni sotib olish va sotish shartnomasi",
+      "Ko'chmas mulkni sotib olish va sotish shartnomasi",
+      "Tovar bozorida tovarlarni sotib olish va sotish shartnomasi",
+      "Qimmatli qog'ozlarni birjada sotib olish va sotish shartnomasi"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Valyuta savdosida xedjlash strategiyasi nima?",
+    "options": [
+      "Investor boshqa valyutaga sarmoya kiritish uchun bir valyutada qarz oladigan strategiya",
+      "Investor boshqa valyutadagi pozitsiya xavfini qoplash uchun valyutada pozitsiyani egallagan strategiya",
+      "Investor valyutani kelajakdagi kutilayotgan qiymatiga qarab sotib oladigan yoki sotadigan strategiya",
+      "Investorning texnik tahlilga asoslangan valyutalar savdosi strategiyasi"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Spot shartnomasining maqsadi nima?",
+    "options": [
+      "Kredit bo'yicha kelajakdagi foiz stavkasini qulflash uchun",
+      "Darhol hisob-kitob qilish uchun valyutani joriy kurs bo'yicha almashtirish",
+      "Xalqaro hisob-kitoblar uchun kelajakdagi valyuta kursini qulflash",
+      "Tovar yoki xizmatlar uchun kelajakdagi narxni qulflash"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Islom banklari qanday moliyaviy instrumentlaridan foydalanadi?",
+    "options": [
+      "iste'mol krediti",
+      "Mudoraba, murobaxa, musharaka",
+      "tijorat krediti",
+      "ipoteka krediti"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Eksport-import operatsiyalarida hujjatli inkassoga asosan qaysi hujjat qabul qilinadi?",
+    "options": [
+      "Konosament",
+      "Invoys",
+      "Tratta",
+      "Sug‘urta polisi"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Xalqaro hisob-kitoblar banki (BIS) xalqaro hisob-kitoblarda qanday rol o‘ynaydi?",
+    "options": [
+      "Markaziy banklar o'rtasidagi hamkorlikni rivojlantirish",
+      "Xalqaro to'lov tizimlarini nazorat qilish",
+      "Valyutalar o'rtasidagi almashuv kurslarini o'rnatish uchun",
+      "Global savdoni moliyalashtirish tizimini boshqarish"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Berilgan kredit ta’minoti asosida qimmatli qog‘ozlarni chiqarish nima deyiladi?",
+    "options": [
+      "kreditni qayta moliyalashtirish",
+      "aktivlarni sekyuritizatsiyalash",
+      "qimmatli qog‘ozlar emissiyasi",
+      "kreditni sekyuritizatsiyalash"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Islom taraqqiyot banki guruhiga qanday tashkilotlar kiradi?",
+    "options": [
+      "Eksport kreditlari va investitsiyalarni sug’urtalovchi islom korporatsiyasi, xususiy sektorni rivojlantirish islom korporatsiyasi",
+      "Islom taraqqiyot banki, xususiy sektorni rivojlantirish islom korporatsiyasi, Islom savdo-moliya xalqaro korporatsiyasi",
+      "Islom taraqqiyot banki, islom ilmiy tadqiqot va trening instituti, eksport kreditlari va investitsiyalarni sug’urtalovchi islom korporatsiyasi, xususiy sektorni rivojlantirish islom korporatsiyasi, Islom savdo-moliya xalqaro korporatsiyasi",
+      "Islom taraqqiyot banki, islom ilmiy tadqiqot va trening instituti"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Suzuvchi valyuta kursi nima?",
+    "options": [
+      "Valyuta kursi valyuta bozoridagi talab va taklifga qarab belgilansa",
+      "Mamlakatning markaziy banki valyuta kursini belgilab, o'z valyutasini sotib olish va sotish orqali uni ushlab turganda",
+      "Mamlakatning markaziy banki valyuta kursining intervensiyasiz erkin o'zgarishiga ruxsat berganida",
+      "Mamlakat o'z kursini aniqlash uchun valyuta savatini ishlatganda"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Diskont siyosati nima?",
+    "options": [
+      "Markaziy bank tomonidan qimmatli qog‘ozlarni sotib olish yoki sotish",
+      "Markaziy bank tomonidan hukumatning tashqi qarziga xizmat ko‘rsatish siyosati",
+      "Markaziy bankning qayta moliyalashtirish stavkasini o‘zgartirishga asoslangan siyosat",
+      "Markaziy bank tomonidan xorijiy valyutani sotib olish yoki sotish"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Valyuta bozorining asosiy tartibga soluvchi tashkiloti to'g'ri keltirilgan qatorni ko'rsating?",
+    "options": [
+      "Transmilliy korporatsiyalar va institutsional investorlar",
+      "Tijorat banklari",
+      "Markaziy bank",
+      "Valyuta birjasi"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Quyidagilardan qaysi biri eksportni rag‘batlantiradi?",
+    "options": [
+      "Deflyatsiya",
+      "Nullifikatsiya",
+      "Devalvatsiya",
+      "Revalvatsiya"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Valyuta savdosida xedjlash nima?",
+    "options": [
+      "Risklarni boshqarishni hisobga olmasdan foyda olish uchun valyutalarni sotish amaliyoti",
+      "Valyuta narxlarining o'zgarishi xavfini qoplash uchun moliyaviy vositalardan foydalanish amaliyoti",
+      "Qisqa muddatli narx harakatidan foydalanish uchun valyutalarni tezda sotib olish va sotish amaliyoti",
+      "Portfelni diversifikatsiya qilish uchun bir nechta valyutalarga sarmoya kiritish amaliyoti"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Xalqaro valyuta fondi qachon tashkil topgan?",
+    "options": [
+      "1940 yil 27 dekabr",
+      "1960 yil 27 dekabr",
+      "1950 yil 27 dekabr",
+      "1944 yil 27 dekabr"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "O‘zbekiston Respublikasining “Valyutani tartibga solish to‘g‘risida”gi qonuni qachon yangi tahrirda qabul qilingan?",
+    "options": [
+      "2003 yil, dekabr",
+      "2015 yil, dekabr",
+      "1993 yil, may",
+      "2019 yil, oktyabr"
+    ],
+    "correct_option": 3
+  }
+]
