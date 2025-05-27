@@ -3,12 +3,11 @@ import random
 import asyncio
 import os
 from aiogram import Bot, Dispatcher, types
-from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
-from aiogram.utils.keyboard import InlineKeyboardBuilder
 from aiogram.filters import CommandStart
 from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.client.default import DefaultBotProperties
 from aiogram import F
+from aiogram.utils.keyboard import InlineKeyboardBuilder
 
 API_TOKEN = os.getenv("BOT_TOKEN")
 
@@ -28,11 +27,18 @@ async def start(message: types.Message):
 async def send_question(chat_id):
     question = random.choice(questions)
     user_states[chat_id] = question
-    builder = InlineKeyboardBuilder()
+    variants_text = ""
     for i, option in enumerate(question["options"]):
-        builder.button(text=f"{chr(65+i)}) {option}", callback_data=str(i))
-    builder.adjust(1)
-    await bot.send_message(chat_id, f"<b>Savol:</b>\n{question['question']}", reply_markup=builder.as_markup())
+        variants_text += f"{chr(65+i)}) {option}\n"
+    
+    text = f"<b>❓ Savol:</b>\n{question['question']}\n\n{variants_text}"
+    
+    builder = InlineKeyboardBuilder()
+    for i in range(len(question["options"])):
+        builder.button(text=chr(65+i), callback_data=str(i))
+    builder.adjust(2)
+    
+    await bot.send_message(chat_id, text, reply_markup=builder.as_markup())
 
 @dp.callback_query(F.data)
 async def handle_answer(callback: types.CallbackQuery):
@@ -42,21 +48,17 @@ async def handle_answer(callback: types.CallbackQuery):
 
     if question:
         correct_index = question["correct_option_index"]
-        chosen = question["options"][selected_index]
-        correct = question["options"][correct_index]
-
+        selected_text = question["options"][selected_index]
+        correct_text = question["options"][correct_index]
+        
         if selected_index == correct_index:
-            response = (
-                f"✅ <b>To‘g‘ri javob!</b>\n\n"
-                f"<b>Siz tanlagan javob:</b> {chr(65+selected_index)}) {chosen}"
-            )
+            response = f"✅ <b>To‘g‘ri javob!</b>\n\n<i>{chr(65+selected_index)}) {selected_text}</i>"
         else:
             response = (
                 f"❌ <b>Noto‘g‘ri</b>\n\n"
-                f"<b>Siz tanlagan javob:</b> {chr(65+selected_index)}) {chosen}\n"
-                f"<b>To‘g‘ri javob:</b> {chr(65+correct_index)}) {correct}"
+                f"<b>Siz tanlagan javob:</b> {chr(65+selected_index)}) {selected_text}\n"
+                f"<b>To‘g‘ri javob:</b> {chr(65+correct_index)}) {correct_text}"
             )
-
         await callback.answer()
         await bot.send_message(user_id, response)
         await send_question(user_id)
