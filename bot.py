@@ -32,7 +32,7 @@ async def send_question(chat_id):
     for i, option in enumerate(question["options"]):
         builder.button(text=f"{chr(65+i)}) {option}", callback_data=str(i))
     builder.adjust(1)
-    await bot.send_message(chat_id, question["question"], reply_markup=builder.as_markup())
+    await bot.send_message(chat_id, f"<b>Savol:</b>\n{question['question']}", reply_markup=builder.as_markup())
 
 @dp.callback_query(F.data)
 async def handle_answer(callback: types.CallbackQuery):
@@ -44,10 +44,19 @@ async def handle_answer(callback: types.CallbackQuery):
         correct_index = question["correct_option_index"]
         chosen = question["options"][selected_index]
         correct = question["options"][correct_index]
+
         if selected_index == correct_index:
-            response = f"✅ <b>To‘g‘ri javob!</b>\n\n<i>{chosen}</i>"
+            response = (
+                f"✅ <b>To‘g‘ri javob!</b>\n\n"
+                f"<b>Siz tanlagan javob:</b> {chr(65+selected_index)}) {chosen}"
+            )
         else:
-            response = f"❌ <b>Noto‘g‘ri</b>\nTo‘g‘ri javob: <b>{chr(65+correct_index)}) {correct}</b>"
+            response = (
+                f"❌ <b>Noto‘g‘ri</b>\n\n"
+                f"<b>Siz tanlagan javob:</b> {chr(65+selected_index)}) {chosen}\n"
+                f"<b>To‘g‘ri javob:</b> {chr(65+correct_index)}) {correct}"
+            )
+
         await callback.answer()
         await bot.send_message(user_id, response)
         await send_question(user_id)
