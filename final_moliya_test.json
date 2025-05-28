@@ -1,1502 +1,1002 @@
 [
   {
-    "question": "Investorlar tomonidan emissiyaga chiqarilgan qimmatli qog‘ozlarni xarid qilish bozori qanday nomlanadi?",
+    "question": "Moliyaviy hisobot qachon tuzilgan va taqdim qilingan deb hisoblanadi?",
     "options": [
-      "ommaviy bozor",
-      "investision bozor.",
-      "ikkilamchi bozor",
-      "birlamchi bozor"
+      "gazetada chop qilingandan keyin",
+      "tuzilib imzo va muhr bilan tasdiqlangandan keyin",
+      "tuzilgandan keyin",
+      "tasdiqlanib auditor xulosasini olgandan keyin"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Foiz ko'rinishidagi xarajatlar qaysi schyotda hisobga olinadi",
+    "options": [
+      9610,
+      9210,
+      9650,
+      9510
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Soliq to‘laguncha olingan foyda qanday aniqlanadi",
+    "options": [
+      "STF=SST-IT",
+      "STF=AFF+MD-MX",
+      "STF=YaF-DX+BD-BZ",
+      "STF=UF+FF-FZ"
     ],
     "correct_option_index": 3
   },
   {
-    "question": "Yevroqogʻozlar – bu …?",
+    "question": "Ijara haqqi summasi hisob –kitob schyotiga kеlib tushganda buxgaltеriya provodkasi qanday bo’ladi?",
     "options": [
-      "kompaniyalar, umumiy holda transmilliy kompaniyalar, bank­lar, investitsion fondlarning ham milliy bozorda, ham boshqa mamlakatlar bozorlarida savdoga qoʻyiladigan aksiyalaridir.",
-      "Amerika banklari boʻlinmalari va shoʻba kompaniyalari va boshqa davlat banklari tomonidan xorijiy valyutada (asosan AQSH dollarida ) chiqarilgan qimmatli qogʻozlar.",
-      "maʼlum bir miqdordagi amerika depozitar aksiyalariga egalikni tasdiqlovchi qimmatli qogʻoz",
-      "xorijiy investorlar oʻrtasida joylashtirish maqsadida emitent uchun xorijiy valyutada chiqariladigan qimmatli qogʻozlardir"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Qaysi hosilaviy qimmatli qog'ozning amalga oshirilishi birja tomonidan kafolatlanadi?",
-    "options": [
-      "svop va forvard",
-      "opsion va forvard",
-      "fyuchers",
-      "forvard"
+      "Dt 5110 Kt 4730",
+      "Dt 5110 Kt 4710",
+      "Dt 5110 Kt 4820",
+      "Dt 4830 Kt 5010"
     ],
     "correct_option_index": 2
   },
   {
-    "question": "Qimmatli qog‘ozlar savdosining tashkilotchilari kimlar?",
+    "question": "Davr xarajatlari -",
     "options": [
-      "fond birjasi va fond bo‘limini tashkil etgan valyuta birjasi",
-      "tijorat banklari.",
-      "valyuta birjasi",
-      "savdo sanoat palatasi"
-    ],
-    "correct_option_index": 0
-  },
-  {
-    "question": "Obligatsiya xususiyatlari notog'ri ko'rsatilgan qatorni belgilang. ",
-    "options": [
-      "emitent-kompaniya  tugatilishi jarayonida mulkni taqsimlashda aksiyadorlar kompaniyaning barcha majburiyatlari shu jumladan, obligatsiyalar boʻyicha qarz majburiyatlarini soʻndirgandan keyin qolgan mulkdan ulush olishlari mumkin",
-      "obligatsiya qarz instrumenti boʻlganligi sababli emitent- kompaniya boshqaruvida qatnashish huquqini beradi. ",
-      "obligatsiya sotib olgan investor emitent- kompaniyaning kreditoriga aylanadi.",
-      "obligatsiyaning muomalada boʻlish muddati qatʼiy belgilangan va muddati kelganda soʻndiriladi."
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Forvard shartnomasining fyuchersdan farqli jihatini belgilang.",
-    "options": [
-      "bu ikki shartnoma faqat bazis aktivlari bo'yicha farq qiladi",
-      "forvard shartnomalari birjada amalga oshiriladi",
-      "forvard shartnomalari birjada va birjadan tashqari amalga oshirilishi mumkin",
-      "forvard shartnomalari birjadan tashqari amalga oshiriladi"
+      "hisobot davrida buxgalteriya hisobining schotlarida yig’ilgan ishlab chiqarish xarajatlaridan",
+      "umumsex xarajatlaridan",
+      "ustama xarajatlardan tashkil topadi",
+      "sotish va ma’muriy xarajatlardan"
     ],
     "correct_option_index": 3
   },
   {
-    "question": "Qimmatli qogʻozlarning alohida turlarini (yoki guruhlarini) va ularning bozorlarini oʻrganib, investitsion jarayonda vaqtning tanlab olingan joriy momentida notoʻgʻri baholangan qimmatli qogʻozlarni aniqlashga asoslanagan tahlil – …?",
+    "question": "Dt 9420 Kt- 4220 buxgaltеriya provodkasi qanday ma'noni anglatadi?",
     "options": [
-      "fundamental tahlil (fundamental analysis)",
-      "texnik tahlil (technical analysis)",
-      "statistik tahlili (statistical analysis).",
-      "qimmatli qogʻozlar tahlili (security analysis)"
-    ],
-    "correct_option_index": 0
-  },
-  {
-    "question": "Aksiyalarning bozor narxi bu…?",
-    "options": [
-      "oldi-sotdi davridagi talab va taklifga ko'ra belgilanadi",
-      "nominal bahodan past bo'ladi",
-      "aksiyaning dastlabki chiqarilgan bahosi",
-      "nominal bahoga teng bo'ladi"
-    ],
-    "correct_option_index": 0
-  },
-  {
-    "question": "Aksiya «spliti» (maydalash) deganda nima tushuniladi?",
-    "options": [
-      "imtiyozli aksiyalar turlarini birlashtirish tushuniladi",
-      "yirik aksionerlar manfaatini ko'zlash tushuniladi",
-      "aksiyalarning naminal bahosini oshirish orqali ularning sonini kamaytirish tushuniladi",
-      "yirik aksionerlar manfaatini ko'zlash va aksiyalarning nominal bahosini kamaytirish orqali ularning sonini ko'paytirish tushuniladi"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Investitsion portfellarning asosiy turlari keltirilgan javobni belgilang.",
-    "options": [
-      "xususiy va davlat investitsiyalari portfeli",
-      "real investitsiya loyihalari portfeli va qimmatli qog'ozlar portfeli.",
-      "bank mahsulotlari portfeli va xususiy korxonalar moliyaviy instrumentlari portfeli",
-      "qisqa muddatli va uzoq muddatli investitsiyalar portfeli"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Potensial (istiqboldagi mumkin boʻlgan) yoʻqotishlarni qancha davr oraligʻi uchun hisoblanishni anglatadigan muddat –nima deb ataladi?",
-    "options": [
-      "riskni baholash",
-      "risk gorizonti",
-      "kredit riski.",
-      "foiz riski"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Oddiy aksiya shunday aksiyaki, unga tegadigan dividend…?",
-    "options": [
-      "majburan to’lanadi",
-      "foydaga qarab har xil bo’ladi",
-      "ma’lum davr mobaynida to’lanmasdan yig’ilib boriladi va oxirida to’lanadi",
-      "oldindan belgilangan qat’iy foizlarda beriladi"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Moliya bozorining oʻziga xos xususiyati toʻgʻri keltirilgan javobni aniqlang.",
-    "options": [
-      "bu bozor pul mablagʻlari oqimini jamgʻaruvchidan qarz oluvchiga tomon yoʻnaltiruvchi bozor institutlari jamlanmasidir",
-      "bu bozorda savdo qilinadigan qimmatli qogʻozlar asosan qisqa muddatli hamda likvidlilik darajasi yuqori boʻlgan instrumentlar hisoblanadi",
-      "bu bozorda qimmatli qogʻozlarni qoʻshimcha joylashtirish faqat yopiq xarakterga egadir",
-      "bozorda operatsiyalar asosan monitar siyosat, davlatlar va xalqaro moliya tashkilotlari darajasida amalga oshiriladi"
-    ],
-    "correct_option_index": 0
-  },
-  {
-    "question": "Ikki tomonning oldindan kelishilgan shartlariga muvofiq kelajakda ma'lum bir to'lovlarni yoki bazis aktivlarni almashtirish bo'yicha bitim bu - …?",
-    "options": [
-      "fyuchers",
-      "forvard",
-      "opsion",
-      "svop"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "O‘zbekistonda dastlab qaysi zavodlarda IPO va SPO  o‘tkazildi?",
-    "options": [
-      "Kvarts va Qo‘qon mexanika zavodlarida",
-      "GM va Qo‘qon mexanika zavodlarida",
-      "GM va Toshkent traktor zavodlarida",
-      "Kvarts va Toshkent traktor zavodlarida"
-    ],
-    "correct_option_index": 0
-  },
-  {
-    "question": "Valyuta tranzaksiyalarning tezda yaʼni ikki kunda amalga oshiriluvchi turi nima deb ataladi?",
-    "options": [
-      "onlayn tranzaksiyalar ",
-      "forvard tranzaksiyalari",
-      "offlayn tranzaksiyalar.",
-      "spot tranzaksiyalari  "
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Ipoteka bozori ikki bosqichli modeli bu- ",
-    "options": [
-      "ssuda jamgʻarma modeli",
-      "yevropa modeli",
-      "osiyo modeli",
-      "amerika modeli"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Valyuta bozori ishtirokchilari uchun ochiq valyuta pozisiya riski nimaga bog‘liq?",
-    "options": [
-      "globalizasiyaga bog‘liq.",
-      "kontragent inqiroziga bog‘liq",
-      "fond bozori inqirozi",
-      "valyuta kursi tebranishlariga"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Kelajakda aktivlar kursining pasayishi kutilayotgan bo’lsa, investor",
-    "options": [
-      "opsion kol sotuvchisi sifatida ishtirok etadi",
-      "opsion put xaridori sifatida ishtirok etadi",
-      "opsion put sotuvchisi sifatida ishtirok etadi",
-      "opsion kol xaridori sifatida ishtirok etadi"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Islom moliyasida qasi moliyaviy instrumentlar muomilasi amalga oshirilmaydi? ",
-    "options": [
-      "derivativlar",
-      "murobaha",
-      "aksiya",
-      "takaful sug'urta"
-    ],
-    "correct_option_index": 0
-  },
-  {
-    "question": "O'z egasiga kelajakda bazis aktivini bitim shartlariga muvofiq sotish huquqini beruvchi opsion qanday nomlanadi? ",
-    "options": [
-      "yevropa opsioni",
-      "amerika opsioni",
-      "opsion put ",
-      "opsion call"
+      "ma'muriy – boshqaruv xodimlariga ish haqidan bеrilgan avans summasini",
+      "korxona rahbariga xizmat safari uchun bеrilgan avans summasini",
+      "korxona rahbarining xizmat safari uchun olgan avans summasiga topshirgan hisobotini",
+      "korxona ishchisiga ish haqidan bеrilgan avans summasini"
     ],
     "correct_option_index": 2
   },
   {
-    "question": "Baholarning, yaʼni fond bozoridagi qimmatli qogʻozlarning oldi-sotdisida belgilanadigan baholarning muayyan yoʻnalaishlar boʻyicha oʻzgarishi – bu…?",
+    "question": "O’zbekiston Respublikasining «Buxgaltyeriya hisobi to’g’risida» yangi tahrirdagi qonuni qachon qabul qilingan?",
     "options": [
-      "trend",
-      "oʻsish",
-      "turgʻunlik.",
-      "tushish"
-    ],
-    "correct_option_index": 0
-  },
-  {
-    "question": "Ipoteka kreditida garov predmeti sifatida nima amal qiladi?",
-    "options": [
-      "qimmatli qogʻozlar ",
-      "koʻchmas mulk ",
-      "naqd pullar",
-      "texnika."
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Xedjirlash bu …",
-    "options": [
-      "qimmatli qog‘ozlar portfelini bir necha turlarga bo'lish",
-      "emitentning qimmatli qog‘ozlarini birja kotirovka varag‘idan chiqarish",
-      "qimmatli qog‘ozlarni qaytarib sotib olish sharti bilan sotish",
-      "qimmatli qog‘ozlar (valyuta) kursi o‘zgarishidan ko’rilishi mumkin bo‘lgan zararlardan sug‘urtalash "
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Nollik oʻsish modelida aksiya daromadliligi qanday aniqlanadi?",
-    "options": [
-      "divided summasini aksiya nominal bahosiga boʻlish orqali",
-      "aksiya bozor bahosi va nominal bahosi oʻrtasidagi farqni nominalga boʻlish orqali",
-      "dividend miqdorini aksiya bozor bahosiga boʻlish orqali",
-      "dividend summasini aksiya bozor bahosi va nominal bahosi oʻrtasidagi farqga koʻpaytirish orqali."
+      "2016 yil 25 aprel",
+      "2016 yil 16 aprel",
+      "2016 yil 13 aprel",
+      "2016 yil 20 aprel"
     ],
     "correct_option_index": 2
   },
   {
-    "question": "Forvard narx bu -…? ",
+    "question": "Qaysi xarajatlar tannarxga kirmasdan,  davr xarajatlariga kiradi?",
     "options": [
-      "forvard shartnomasi tuzish vaqtida spot bozrdagi narx",
-      "forvard shartnomasi tuzish vaqtida unda belgilab qo'yilgan narx",
-      "forvard shartnomasi bajariladigan muddatdagi spot bozordagi narx",
-      "bazis aktivning birja bahosi"
+      "ishlab chiqarish binosining amortizatsiya, sotish xarajatlari, ma'muriy xarajatlar, boshqa opyeratsion xarajatlar",
+      "Sotish xarajatlari, ma'muriy xarajatlar, boshqa opyeratsion xarajatlar, kyelajakda soliqqa tortiluvchi bazadan chiqariluvchi joriy oy xarajatlari.",
+      "xom-ashyo va matyeriallar, ishlab chiqarish binosining amortizatsiya, yoqilg’i, sotish xarajatlari",
+      "ishlab chiqarish binosining amortizatsiya, yoqilg’i, sotish xarajatlari, ma'muriy xarajatlar"
     ],
     "correct_option_index": 1
   },
   {
-    "question": "Investitsiyalar ob'ektlari bo'yicha qanday turlarga ajratiladi? ",
+    "question": "Xo‘jalik yurituvchi subyektlar moliyaviy-xo‘jalik faoliyatining buxgalteriya hisobi schotlari rejasi va uni qo‘llash bo‘yicha yo‘riqnoma nechinch BHMS?",
     "options": [
-      "xususiy va davlat investitsiyalari",
-      "xorijiy va mahalliy investitsiyalar",
-      "birlamchi va ikkilamchi qimmatli qog'ozlarga investitsiyalar ",
-      "real va moliyaviy investitsiyalar"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Aksiya konsolidatsiyasi deganda nima tushuniladi?",
-    "options": [
-      "aksiyalarning nominal baxosini oshirish orqali ularning sonini kamaytirish tushuniladi",
-      "aksiyalarning nominal baxosini kamaytirish orqali ularning sonini oshirish tushuniladi",
-      "aksiyalarning nazorat paketini fond birjasi orqali sotib olish tushuniladi.",
-      "aksiyalarning nazorat paketini fond birjasi orqali sotish tushuniladi"
-    ],
-    "correct_option_index": 0
-  },
-  {
-    "question": "Obligatsiya emitentlari kimlar?",
-    "options": [
-      "davlat, aksiyadorlik jamiyatlari, MChJ",
-      "individual tadbirkorlar va yakka tartibdagi tadbirkorlar",
-      "korporativ tuzilmalar va individual tadbirkorlar",
-      "hokimiyatlar va nodavlat - notijorat tashkilotlar"
-    ],
-    "correct_option_index": 0
-  },
-  {
-    "question": "DPS qanday ko'rsatkich?",
-    "options": [
-      "bitta aksiyaga to'g'ri keladigan dividend",
-      "aksiya bahosining foydaga nisbati",
-      "baho-tushum koeffisenti",
-      "bitta aksiyaga to'g'ri keladigan daromad"
-    ],
-    "correct_option_index": 0
-  },
-  {
-    "question": "Strayk baho bu -…?",
-    "options": [
-      "belgilangan muddat tugayotgan kunda bajarilishi mumkin bo’lgan optsion",
-      "opsion kol va put bazisidagi aktivlarni xarid qilish va sotish bo’yicha belgilangan baho",
-      "bazisi bir xil instrumentlardan shakllangan bir turdagi hamma optsion shartnomalari",
-      "bazisdagi aktivlarni sotish huquqini qo’lga kiritish"
+      "№7 BHMS",
+      "№21 BHMS",
+      "№6 BHMS",
+      "№1 BHMS"
     ],
     "correct_option_index": 1
   },
   {
-    "question": "Opsion deganda nima tushuniladi?",
+    "question": "Tovarni sotishdan tushgan yalpi tushumning kеlib tushishi:",
     "options": [
-      "aktivni kelishilgan kelgusidagi muddatda, shartnoma tuzishda qabul qilingan   baho bo’yicha sotish yoki sotib olish majburiyati tushuniladi",
-      "egasiga belgilangan vaqt uchun yoki muddatsiz shart bilan shartnomada ko’rsatilgan   narxda aktivni sotib olish huquqini beruvchi guvohnoma tushuniladi",
-      "kelgusidagi tovarlarning bugungi narxi tushuniladi",
-      "muayan aktivni kelishilgan baho va muddatda sotib olish yoki sotish huquqini beruvchi shartnoma tushuniladi"
+      "Dt 5110 Kt 4010",
+      "Dt 5110 Kt 6010",
+      "Dt 5110 Kt 4310",
+      "Dt 5510 Kt 4010"
     ],
-    "correct_option_index": 3
+    "correct_option_index": 0
   },
   {
-    "question": "Obligatsiya – bu…?",
+    "question": "Valyuta schyotidagi xorijiy valyuta qayta baholandi oshgan summasi",
     "options": [
-      "o’z egasiga dividend olish huquqini beruvchi qimmatli qog’ozlardir",
-      "o’z qiymatiga nisbatan qat’iy belgilangan foiz shaklida daromad kelitruvchi qimmatli qog’ozdir",
-      "emitentning qisqa muddatli qarz munosabatlaridir",
-      "nomi yozilgan qimmatli qog’ozlarga egalik qilish huquqini boshqa birovga berishdir"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "DAKS indeksi qaysi davlatda foydalaniladi",
-    "options": [
-      "AQSH",
-      "Yaponiya",
-      "Germaniya",
-      "Buyuk Britaniya"
+      "Dt 5210 Kt 9610",
+      "Dt 5210 Kt 9510",
+      "Dt 5210 Kt 9540",
+      "Dt 5210 Kt 9530"
     ],
     "correct_option_index": 2
   },
   {
-    "question": "Oddiy aksiyalar qiymati va daromadliligini baholashning murakkabligini qanday izohlash mumkin?",
+    "question": "Mamlakat ichidagi valyuta schyotidan naqd xorijiy valyutani olindi. Qanday buxgalteriya provodkasi beriladi?",
     "options": [
-      "oddiy aksiyalar boʻyicha daromadning kafolatlanmaganligi va amal qilish muddatining mavjud emasligi",
-      "dividendlarning oʻzgarmasligi va qayta investitsiya qilinishi.",
-      "qatʼiy summada daromadning belgilanmaganligi va amal qilish muddatining uzoqligi",
-      "oddiy aksiyalarning doimiy ravishda qoʻldan-qoʻlga oʻtib turishi va joriy kursni aniqlashning murakkabligi"
+      "Dt 5020 Kt 5210",
+      "Dt 2010 Kt 5210",
+      "Dt 6020 Kt 5210",
+      "Dt 4020 Kt 5210"
     ],
     "correct_option_index": 0
   },
   {
-    "question": "Oʻz egasiga aksiyadorlarning umumiy yigʻilishida oʻz ovozi bilan ishtirok etish huquqi, dividendlar olish va aksiyadorlik jamiyati tugatilganda mulkning bir qismiga ega boʻlish huquqini beruvchi qimmatli qogʻoz turini aniqlang.",
+    "question": "Buxgalteriya schyotlarining tarkibiy tuzilishi ",
     "options": [
-      "kuponli obligatsiyalar",
-      "imtiyozli aksiyalar",
-      "oltin aksiya",
-      "oddiy aksiyalar"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Birjada va birjadan tashqarida ham muomilada bo'luvchi hosilaviy qimmatli qog'oz bu…?",
-    "options": [
-      "svop va forvard",
-      "opsion",
-      "fyuchers",
-      "forvard"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Amerika banklari boʻlinmalari va shoʻba kompaniyalari va boshqa davlat banklari tomonidan xorijiy valyutada (asosan AQSH dollarida) chiqarilgan qimmatli qogʻoz turi qanday nomlanadi?",
-    "options": [
-      "yevroaksiya",
-      "yevroobligatsiya",
-      "yevrodepozit sertifikatlari",
-      "depozitar tilxat."
+      "bosh qoldiq, oborot, oxirgi qoldiq",
+      "bosh qoldiq, oxirgi qoldiq",
+      "sintetik schyotlar, analitik schyotlar",
+      "debet, kredit"
     ],
     "correct_option_index": 2
   },
   {
-    "question": "Fundamental tahlilga taʼsir eʼtuvchi omillarni koʻrsating.",
+    "question": "Buxgaltyeriya hisobining predmeti  bu...",
     "options": [
-      "iqtisodiy, siyosiy, ijtimoiy omillar va fors-major holatlari",
-      "aholining milliy daromadi, bilim-ko'nikmalari va ijtimoiy turmush darajasi. ",
-      "Ijtimoiy omillar, moliyaviy omillar, turli mish-mishlar va kutilishlar, fors-major holati",
-      "iqtisodiy omillar, siyosiy omillar, turli mish-mishlar va kutilishlar, fors-major holatlari"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "     Yevroobligatsiyalarning o’ziga xos xususiyatlari to’gri berilgan javobni aniqlang.",
-    "options": [
-      "    Yevroobligatsiyalar global obligatsiyalar bozorining taxminan 25%ni tashkil qiladi",
-      "  Ushbu obligatsiyalarni sotish nisbatan oson, past riskli va xavfsiz investitsiya alternativiga ega",
-      "   Ushbu obligatsiyalar faqat qisqa muddatli bo’ladi",
-      "     Yevroobligatsiyalar qat’iy va o’zgaruvchan foiz stavkalari bilan chiqarilmaydi"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Quyidagi iboralardan qaysi biri to‘g‘ri?",
-    "options": [
-      "“pul bozori kapital bozorining segmenti”",
-      "“aksiyalar bozori pul bozorining segmenti”",
-      "“derivativlar bozori hosilaviy qimmatli qog‘ozlar bozorining asosiy segmenti”.",
-      "“kapital bozori moliya bozorining asosiy segmenti”"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Investitsiya portfeli deganda nima tushuniladi? ",
-    "options": [
-      "moliya bozori orqali pul resurslarini jamlash",
-      "bu birgalikda yig'ilgan qimmatli qog'ozlar va boshqa aktivlar to'plamidir",
-      "moliya bozori orqali real sektor investitsion loyihalarini moliyalashtirishning arzon va samarali manbai",
-      " iqtisodiyotning tarmoqlari bo’ylab investitsion resurslarni samarali taqsimlanishi va qayta taqsimlanishi jarayoni "
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Instrumentlari muomalada boʻlish muddatiga koʻra moliya bozori qanday turdagi bozorlarga ajratiladi?",
-    "options": [
-      "birjaviy va nobirjaviy bozor",
-      "birlamchi va ikkilamchi bozor",
-      "milliy va halqaro bozorlar",
-      "pul bozori va kapital bozori"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Obligasiya bo‘yicha qarzdorligi nima bilan ta'minlanadi?",
-    "options": [
-      "f'yuchers bilan.",
-      "mulk ta'minoti bilan",
-      "sug‘urta polisi bilan",
-      "penya bilan"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Investitsiyalar maqsadiga ko'ra qanday turlarga ajratiladi?",
-    "options": [
-      "xususiy va davlat investitsiyalari",
-      "qisqa muddatli va o'rta muddatli investitsiyalar",
-      "to'g'ridan-to'g'ri va portfel (bilvosita) investitsiyalar",
-      "qisqa muddatli va uzoq muddatli investitsiyalar"
+      "Pul mablag’lari ",
+      "Xo’jalik mablag’lari ",
+      "Korxonaning pul ifodasida aks ettiriladigan xo’jalik mablag’lari, shu mablag’lar manbalari, ularning xo’jalik faoliyati va moliyaviy natijalaridir",
+      "Korxonaning moliyaviy natijalari "
     ],
     "correct_option_index": 2
   },
   {
-    "question": "Obligatsiyalarning emitent turiga koʻra koʻrinishlari notoʻgʻri keltirilgan javobni belgilang.",
+    "question": "Buxgaltyeriya balansining passiv qismi qanday bo’limlardan iborat?",
     "options": [
-      "korporativ obligatsiyalar",
-      "xorijiy obligatsiyalar",
-      "munitsipal obligatsiyalar",
-      "konvert obligatsiyalar"
+      "uzoq muddatli aktivlar va majburiyatlar",
+      "majburiyatlar va joriy aktivlar",
+      "o’z mablag’lari manbalari va joriy aktivlar",
+      "o’z mablag’lari manbalari va majburiyatlar"
     ],
     "correct_option_index": 3
   },
   {
-    "question": "Moliya bozorini tartibga solishda davlatning rivojlantirish konsepsiyasi, uni amalga oshirish dasturlari ishlab chiqilishi bilan bogʻliq funksiyasi …",
+    "question": "Debitorlik qarzi nima?",
     "options": [
-      "nazorat funksiyasi.",
-      "maʼmuriy funksiya",
-      "strategiyani belgilash funksiyasi",
-      "ragʻbatlantirish funksiyasi"
+      "korxonaga boshqa tashkilotdan jo’natilgan tovar, bajarilgan ish va xizmatlar uchun to’lashi lozim bo’lgan qarzi",
+      "Olingan kreditlar",
+      "korxona, tashkilot yoki muassasaning tegishli yuridik yoki jismoniy shaxslarga to’lanishi lozim bo’lgan pul mablag’lari summasi.",
+      "yuridik yoki jismoniy shaxslar boshqa yuridik yoki jismoniy shaxslar bilan oʻzaro xoʻjalik munosabatlari natijasida ulardan olishi lozim boʻlgan qarz summasi."
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Taqsimlanmagan foydadan dividеnd hisoblandi. Buxgaltеriya provodkasini bеring?",
+    "options": [
+      "Dt 8710 Kt 9910",
+      "Dt 6610 Kt 8710",
+      "Dt 8710 Kt 6610",
+      "Dt 9110 Kt 8710"
     ],
     "correct_option_index": 2
   },
   {
-    "question": "Bekuordeyshn atamasi qanday holatni anglatadi?",
+    "question": "Obligatsiya -bu",
     "options": [
-      "Spot narxini fyuchers narxidan past boʻlish holatini",
-      "Fyuchers narxini spot narxidan past boʻlish holatini",
-      "Spot narxini fyuchers narxidan yuqori boʻlish holatini.",
-      "Fyuchers narxini spot narxidan yuqori boʻlish holatini"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "1990-yillar yarmidan to hozirgi kunga qadar yirik xalqaro banklar va regulyatorlar boshchiligida deyarli barcha moliyaviy institutlar risk metrikasisifatida qaysi risklarni hisoblash uslubiyoti qoʻllaniladi?",
-    "options": [
-      "stress-test usuli",
-      "tizimli riskni erta aniqlash indikatorlari",
-      "spetsifik (oʻziga xos) risklar.",
-      "VaR(Value at Risk)"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Aksiyadorlik jamiyati aksiyalarni turli nominal qiymati bilan joylashtirishi mumkinmi?",
-    "options": [
-      "mumkin emas",
-      "mumkin",
-      "qo‘shimcha aksiyalarni joylashtirishganda mumkin",
-      "faqat ayrim imtiyozli aksiyalarni"
-    ],
-    "correct_option_index": 0
-  },
-  {
-    "question": "Moliyaviy instrumentlar o‘rta muddatli hisoblanadi, agar ularning muddati:",
-    "options": [
-      "besh yil",
-      "olti yilgacha.",
-      "bir yilgacha",
-      "uch yilgacha"
-    ],
-    "correct_option_index": 0
-  },
-  {
-    "question": "Moliya bozorining regulyativ infratuzilmasi – bu ...?",
-    "options": [
-      "moliya bozori ishtirokchilari zimmasidagi majburiyatlar.",
-      "moliya bozorining normal ishlashini taʼminlovchi tizimlardan biridir",
-      "moliya bozoridagi tartibni saqlab turish",
-      "pul mablagʻlarini qayta taqsimlash mexanizmi"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Quyidigilardan qaysi biri bozor riskini standart shakli hisoblanmaydi?",
-    "options": [
-      "foiz riski",
-      "investitsion risklar",
-      "fond (yoki narx) riski",
-      "valyuta riski."
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Bitkoinning narxi baland bo‘lganligi tufayli uni kichik birliklarda ifodalash uchun qanday birlik ishlatiladi? ",
-    "options": [
-      "Bitkoin Cash",
-      "Satoshi",
-      "One Coin",
-      "Cash"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Obligatsiyalar emissiyasini amalga oshirish huquqi qanday korxonalarga beriladi?",
-    "options": [
-      "faqat kredit layoqatiga javob beruvchi korxonalarga",
-      "moliyaviy inqiroz yoqasidagi korxonalarga",
-      "davlat ulushi mavjud korxonalarga",
-      "faqat aksiyadorlik jamiyatlariga"
-    ],
-    "correct_option_index": 0
-  },
-  {
-    "question": "Davlat qimmatli qog‘ozlarini joylashtirish va ularning muomalasi qanday amalga oshiriladi?",
-    "options": [
-      "davlat qimmatli qog‘ozlarini joylashtirish va ularning muomalasi qonunchilikda belgilangan tartibda amalga oshiriladi",
-      "davlat qimmatli qog‘ozlarini joylashtirish va ularning muomalasi turli xil ko‘rinishlarda amalga oshiriladi",
-      "davlat qimmatli qog‘ozlarini joylashtirish tijorat banklari belgilangan tartibda amalga oshiriladi",
-      "davlat qimmatli qog‘ozlarini joylashtirish vazirliklar tomonidan belgilangan tartibda amalga oshiriladi"
-    ],
-    "correct_option_index": 0
-  },
-  {
-    "question": "Xalqaro moliya bozorida spekulyativ operatsiyalar nimalarga sabab bo'ladi?",
-    "options": [
-      "bozorning narx barqarorligi va likvidligini oshiradi",
-      "bozor likvidligi va narx barqarorligini pasaytiradi",
-      "bozor likvidligini oshiradi va naarx barqarorligini pasaytiradi",
-      "bozor likvidligini kamaytiradi va narx barqarorligini oshiradi."
-    ],
-    "correct_option_index": 0
-  },
-  {
-    "question": "Anʼanaviy yapon shamlarining qaysi turida savdo sessiyasida qimmatli qogʻozlarni ochilish va yopilish narxlarining bir xil boʻlishi kuzatiladi?",
-    "options": [
-      "uzun tanli sham",
-      "marubozi",
-      "doji",
-      "barcha javoblar notoʻgʻri."
+      "hujjatlar bo‘lib, ular mazkur hujjatlarni chiqargan yuridik shaxs bilan ularning egasi o‘rtasidagi mulkiy huquqlarni yoki qarz munosabatlarini tasdiqlaydi, dividendlar yoki foizlar tarzida daromad to‘lashni hamda ushbu hujjatlardan kelib chiqadigan huquqlarni boshqa shaxslarga o‘tkazish imkoniyatini nazarda tutadi",
+      "o‘z egasining aksiyadorlik jamiyati foydasining bir qismini dividendlar tarzida olishga, aksiyadorlik jamiyatini boshqarishda ishtirok etishga va u tugatilganidan keyin qoladigan mol-mulkning bir qismiga bo‘lgan huquqini tasdiqlovchi, amal qilish muddati belgilanmagan, egasining nomi yozilgan emissiyaviy qimmatli qog‘oz",
+      "emissiyaviy qimmatli qog‘oz bo‘lib, u obligatsiyani saqlovchining obligatsiyaning nominal qiymatini yoki boshqa mulkiy ekvivalentini obligatsiyani chiqargan shaxsdan obligatsiyada nazarda tutilgan muddatda olishga, obligatsiyaning nominal qiymatidan qat’iy belgilangan foizni olishga bo‘lgan huquqini yoxud boshqa mulkiy huquqlarini tasdiqlaydi",
+      "pul mablag‘larini omonatga qo‘yilganligi to‘g‘risida, omonatchiga belgilangan muddat tugagandan so‘ng depozit summasi va unga tegishli foizlarni olish huquqini beruvchi muassasa guvohnomasidir"
     ],
     "correct_option_index": 2
   },
   {
-    "question": "Obligatsiyalar boʻyicha daromad qanday koʻrinishda ifodalanadi?",
+    "question": "Invеntarizatsiya natijasida xom–ashyolar ortiqcha chiqqanda qanday  buxgaltеriya provodkasi bеriladi?",
     "options": [
-      "pay koʻrinishida",
-      "dividend koʻrinishida",
-      "ulush koʻrinishida",
-      "foiz yoki diskont koʻrinishida"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Qimmatli qog‘ozlar savdosining tashkilotchilari tomonidan ro‘yxatdan o‘tkazilgan qimmatli qog‘ozlarga doir bitimlar bo‘yicha o‘zaro majburiyatlarni aniqlash, aniqlashtirish va hisobga olish nima deb nomlanadi?",
-    "options": [
-      "kliring",
-      "depozitariy",
-      "bank.",
-      "birja"
-    ],
-    "correct_option_index": 0
-  },
-  {
-    "question": "Qonunchilikda belgilangan tartibda moliyaviy instrumentlarni investitsiyalar (moliyaviy resurslar) jalb qilish maqsadida moliya bozoriga chiqaruvchi tashkilotlar nima deyiladi?",
-    "options": [
-      " investor",
-      " depozitariylar",
-      " transfert agent",
-      "emitentlar"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Markovisning portfel nazariyasi mohiyati nimaga asoslangan?",
-    "options": [
-      "risksiz foiz stavkasini aniqlash",
-      "portfel diversfikatsiyasi ",
-      "rsiksiz aktivlarni aniqlash",
-      "portfel risk qiymatini yuqori chegarasini baholash"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Markaziy bank obligatsiyasi nima maqsadda emissiya qilinadi?",
-    "options": [
-      "davlat qarzini qoplash maqsadida",
-      "byudjet defisitini qoplash uchun",
-      "ijtimoiy loyihalarni moliyalshtirish uchun",
-      "pul-kredit siyosatini amalga oshirish maqsadida"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Forvard shartnoma davrida aksiyalarga dividend toʻlanishi forvard narxiga qanday taʼsir etadi?",
-    "options": [
-      "forvard narxi toʻlanadigan dividendlar hajmiga muvofiq korrektirovka qilinadi",
-      "forvard shartnomaning bazis aktivi sifatida aksiyalar qoʻllanil­maydi",
-      "dividend qiymati aksiyalarning nominal qiymatidan yuqori boʻlgandagina forvard narxi dividend hajmiga muvofiq korrektirovka qilinadi.",
-      "toʻlanadigan dividendlar forvard narxiga taʼsir etmaydi"
-    ],
-    "correct_option_index": 0
-  },
-  {
-    "question": "Kross kurs nimada aks etadi?",
-    "options": [
-      "bevosita va bilvosita kotirovkada",
-      "bevosita kotirovkada",
-      "maxsus “kross kurs kotirovkada”.",
-      "bilvosita kotirovkada"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Ipoteka bozori modellari keltirilgan qatorni aniqlang.",
-    "options": [
-      "anʼanaviy model, ikki bosqichli model, ssuda-jamgʻarma modeli",
-      "anʼanaviy model, ikki bosqichli model.",
-      "anʼanaviy model, uch bosqichli model, ssuda-jamgʻarma modeli",
-      "anʼanaviy model, ssuda-jamgʻarma modeli"
-    ],
-    "correct_option_index": 0
-  },
-  {
-    "question": "Moliya bozorining Kontinental modelida bozordagi moliyaviy vositachi funksiyalari kim tomonidan bajariladi?",
-    "options": [
-      "nobank moliya institutlari",
-      "broker hamda dilerlar orqali",
-      "qimmatli qogʻozlar boʻyicha kompaniyalar",
-      "tijorat banklari"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Hech qanday markaziy hokimiyat tomonidan berilmaydigan va uni davlat aralashuvi yoki manipulyatsiyasidan holi hisoblanadigan toʻlov tizimlari -…",
-    "options": [
-      "kriptovalyutalar",
-      "xorijiy valyutalar",
-      "elektron pullar",
-      "naqd pullar"
-    ],
-    "correct_option_index": 0
-  },
-  {
-    "question": "“Suveren fond” atamasini ilk bora qo‘llagan iqtisodchi olim kim?",
-    "options": [
-      "E.X.Xansen.",
-      "A.Rozanov",
-      "K.Klimbetov",
-      "S.Yu.Vitte"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Qimmatli qog‘ozlarni muayyan muddat o‘tgach, avvaldan belgilangan narx bo‘yicha qayta sotib olish sharti bilan tuziladigan qimmatli qog‘ozlarga doir oldi-sotdi bitimlari nima deb ataladi?",
-    "options": [
-      "Repo",
-      "Opsion",
-      "Forvard",
-      "Valuta svoplari"
-    ],
-    "correct_option_index": 0
-  },
-  {
-    "question": "Investitsiya fondlarining qaysi tashkiliy tuzilmasi aksiyador oʻtkazmalarini bajaradi, boshqa faoliyatlar hisobini yuritadi va aksiyadorga hisobraqamdan koʻchirma va hujjatlarni taqdim etadi?",
-    "options": [
-      "kastodian.",
-      "transfer agent",
-      "investitsiya maslahatchisi",
-      "asosiy anderrayter"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Investitsiya fondlarining qaysi tashkiliy tuzilmasi Fond faoliyatini kuzatib boradi, boshqaruvchi kompaniya va boshqa xizmat koʻrsatuvchilar bilan shartnomalarni maʼqullaydi?",
-    "options": [
-      "direktorlar kengashi",
-      "investitsiya maslahatchisi.",
-      "asosiy anderrayter",
-      "administrator"
-    ],
-    "correct_option_index": 0
-  },
-  {
-    "question": "Nyu-York fond birjasi (NYSE) qachon tashkil etilgan va u qayerda joylahgan?",
-    "options": [
-      "1785-yil asos solingan Washingtonda joylashgan",
-      "1780-yil asos solingan Dallasda joylashgan",
-      "1792-yil asos solingan Texasda joylashgan",
-      "1792-yil asos solingan Uoll-stritda joylashgan"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Qaysi mamlakatlar iqtisodiyotini moliyalashtirishda asosan qimmatli qogʻozlar bozori orqali moliyalashtirish usulidan foydalaniladi?",
-    "options": [
-      "Germaniya, Nirderlandiya",
-      "Amerika Qoʻshma Shtatlari, Buyuk Britaniya",
-      "Yaponiya, Shveytsariya",
-      "Shvetsiya, Fransiya"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Yevroaksiyalar savdosi amalga oshiriladigan asosiy moli­yaviy markazlar nomi qaysi javobda toʻgʻri keltirilgan?",
-    "options": [
-      "Italiya, Angliya, Shveysariya.",
-      "London, Singapur, Lyuksemburg",
-      "Shveysariya, Avstriya",
-      "Fransiya, Italiya, Angliya"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Valyuta bozorida kurs bitimi ikki kun ichida amalga oshirilsa qanday bitim deb nomlanadi?",
-    "options": [
-      "spot",
-      "valyuta arbitraji.",
-      "f'yuchers",
-      "opsion"
-    ],
-    "correct_option_index": 0
-  },
-  {
-    "question": "Xorijiy aksiyalar afzalliklari toʻgʻri keltirilgan javobni aniqlang.",
-    "options": [
-      "mamlakatda xorijiy aksiyalarga nisbatan maʼlum tartib qoida belgilab qoʻyilishi",
-      "aksiyalar oldi-sotdisida valyuta konvertatsiyasini amalga oshi­rishga zarurat ortadi",
-      "siyosiy, iqtisodiy risklar, likvidlilik riski pasayadi",
-      "xorijiy kompaniyalarga nisbatan aksiyalar miqdori, moliyaviy hisobotlar va boshqa jihatlar boʻyicha qatʼiy talablar belgilanishi."
+      "Dt 1010 Kt 9710",
+      "Dt 1010 Kt 9320",
+      "Dt 1010 Kt 9390 ",
+      "Dt 1010 Kt 9290  "
     ],
     "correct_option_index": 2
   },
   {
-    "question": "Amerikacha opsion",
+    "question": "Asosiy vositalarni sotishdan ko’rilgan foyda aks ettiriladi…?",
     "options": [
-      "bir xil belgilangan muomala muddati va bajarish bahosiga ega bo’lgan hamma opsion sinfi",
-      "shartnoma muddati tugamasdan oldin hohlagan kunda bajarilishi mumkin bo’lgan opsion",
-      "opsion bazisidagi moliyaviy instrumentning joriy bozor bahosi",
-      "xaridori tomonidan opsionni sotib olish"
+      "Moliyaviy faoliyatdan daromadda",
+      "Asosiy faoliyatning boshqa daromadlari",
+      "Dеbitor qarzning kamayishida",
+      "Matеrial zaxirasining ko’payishida"
     ],
     "correct_option_index": 1
   },
   {
-    "question": "Imtiyozli aksiyalarning xususiyatlari to'g'ri berilgan qatorni belgilang. ",
+    "question": "Asosiy vositalarning tugatish qiymati bu…......?",
     "options": [
-      "ovoz berish huquqi mavjud emas, dividendlar ham kafolatlanmagan",
-      "foydani katta ulushini dividend shaklida olish imkoniyati va ovoz berish huquqi mavjud",
-      "ovoz berish huquqi mavjud emas, dividendlar kafolatlangan",
-      "ko'proq ovoz bersih imkoniyati mavjud, dividendlar kafolatlangan"
+      "asosiy vositalarning chiqib ketishi bo’yicha kutilayotgan xarajatlarni chegirgan holda kutilayotgan foydali xizmat muddati oxirida asosiy vositalarni tugatish chog’ida olinadigan aktivlarning kutilayotgan summasi.",
+      "ma’lum sanadagi amal qilayotgan bozor narxlari bo’yicha asosiy vositalarning qiymati yoki xabardor qilingan, bitimni amalga oshirishni xohlovchi, mustaqil taraflar o’rtasida bitimni amalga oshirishda aktivni sotib olish yoki majburiyatlarni bajarish uchun yetarli bo’lgan summa.",
+      "asosiy vositalarni yaratish (qurish va qurib bitkazish) yoki xarid qilish bo’yicha qilingan xarajatlarning qiymati, shu jumladan to’langan va qoplanmaydigan soliqlar (yig’imlar), shuningdek aktivni undan maqsadga muvofiq foydalanish uchun ishchi holatiga keltirish bilan bevosita bog’liq bo’lgan yyetkazib berish va montaj qilish, o’rnatish, ishga tushirish va istalgan boshqa xarajatlar.",
+      "jamlangan amortizasiya summasini chegirgan holda asosiy vositalarning boshlang’ich (tiklash) qiymati."
     ],
     "correct_option_index": 2
   },
   {
-    "question": "\"Islom darchalari\"ning mohiyati tog'ri berilgan qatorni toping. ",
+    "question": "Sotish xarajatlari qaysi schyotda hisobga olinadi",
     "options": [
-      "bu islom bankining filiali",
-      "bu an'anaviy tijorat banki o'z tuzilmasida qo'shimcha bo'linma yoki yangi yuridik shaxs tashkil etadi, uning modeli islom bank ishi tamoyiliga asoslanadi. ",
-      "bu kichik ustav bilan tuzilgan islom banklari",
-      "bu an'anaviy tijorat banki o'z tuzilmasida qo'shimcha bo'linma yoki yangi yuridik shaxs tashkil etadi, uning modeli faqatgina islom bank ishi tamoyiliga emas balki an'anaviy bank modeliga ham asoslanadi. "
+      9430,
+      9410,
+      2010,
+      9690
     ],
     "correct_option_index": 1
   },
   {
-    "question": "Opsion call bu…?",
+    "question": "Asosiy faoliyatdan olingan foyda qanday aniqlanadi?",
     "options": [
-      "sotish bo'yicha opsion",
-      "muddati o'tgan opsion",
-      "bajarilish muddati kelgan opsion",
-      "harid qilish bo'yicha opsion"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Korporativ obligatsiyalar deganda nima tushuniladi?",
-    "options": [
-      "vazirliklar tomonidan emissiya qilinadigan obligatsiyalar tushuniladi",
-      "davlat tomonidan emissiya qilinadigan obligatsiyalar tushuniladi",
-      "mahalliy hokimiyatlar emissiya qilinadigan obligatsiyalar tushuniladi",
-      "kompaniya va firmalar tomonidan emissiya qilinadigan obligatsiyalar tushuniladi"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Moliya bozorining funksiyalari notoʻgʻri keltirilgan javobni aniqlang.",
-    "options": [
-      "kapitalni vaqt, tarmoqlararo va mamlakatlararo qayta taqsim­lash",
-      "kapitalni jamlashda qatnashmasligi",
-      "risklarni boshqarish",
-      "axborotlar assimmetriyasi bilan bogʻliq muammolarni oldini olish"
+      "AAF=SST-IT",
+      "AAF=YaF-DX+BD-BZ",
+      "AAF=AFF+MD-MX",
+      "AAF=UF+FF-FZ"
     ],
     "correct_option_index": 1
   },
   {
-    "question": "Aksiyalar emissiyasi konsolidasiyasi amalga oshirilganda aksiyadorlik jamiyati ustavi:",
+    "question": "Asosiy vositalarga eskirish hisoblash usullarini ko'rsating.",
     "options": [
-      "kamayadi",
-      "o'zgarmaydi",
-      "qisman kamayadi",
-      "oshadi"
+      "Kumulyativ, to‘g‘ri chiziqli, ishlab chiqarish usuli.",
+      "Kumulyativ, to‘g‘ri chiziqli.",
+      "Kumulyativ, to‘g‘ri chiziqli, ishlab chiqarish, ikki marta ko‘paygan norma kamayib boruvchi qoldiq usuli.",
+      "To‘g‘ri chiziqli, ishlab chiqarish, ikki marta ko‘paygan norma kamayib boruvchi qoldiq usuli."
     ],
-    "correct_option_index": 1
+    "correct_option_index": 2
   },
   {
-    "question": "Sukukning o'ziga xos xususiyati ko'rsatilgan qatorni belgilang",
+    "question": "Sof foyda qanday oniqlanadi",
     "options": [
-      "bu qimmatli qog'ozning so'ndirilish muddati mavjud bo'ladi",
-      "bu qimmatli qog'ozning so'ndirilish muddati mavjud emas",
-      "bu qimmatli qog'oz faqat majburiyat yuklaydi",
-      "bu qimmatli qog'oz foiz ko'rinishida daromad olib keladi"
+      "SF=SST-IT",
+      "SF=UF+FF-FZ",
+      "SF=STF-DS-BS",
+      "SF=AFF+MD-MX"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Yordamchi ishlab chiqarishga materiallar sarflanganda. Qanday buxgalteriya provodkasi beriladi?",
+    "options": [
+      "Dt 2310 Kt 1010 ",
+      "Dt 1010 Kt 2310 ",
+      "Dt 2010 Kt 1010 ",
+      "Dt 2510 Kt 2810"
     ],
     "correct_option_index": 0
   },
   {
-    "question": "Bazis aktivlarini moliyaviy instrumentlar, yaʼni qimmatli qogʻozlar, fond indekslari, valyutalar, bank depozitlari tashkil etuvchi muddatli shartnomalar nima deb ataladi?",
+    "question": "Majburiyatga nima kiradi?",
     "options": [
-      "valyuta svopi shartnomalari",
-      "opsionlar",
-      "forvard shartnomalari",
-      "moliyaviy fyuchers shartnomalari"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "P/E ko'rsatkichi nimani anglatadi?",
-    "options": [
-      "bitta aksiyaga to'g'ri keladigan dividend",
-      "bitta aksiyaga to'g'ri keladigan daromad",
-      "baho-tushum koeffisenti",
-      "bozor aniq bir korxonaning bir birlik foydasiga qancha to'lashga tayyorligini"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Aksiya daromadliligini aniqlashning doimiy oʻsish modeli mohiyati toʻgʻri koʻrsatilgan javobni belgilang.",
-    "options": [
-      "aksiya kursi doimiy ravishda oʻsib boradi",
-      "dividendlar har yili bir xil foizda oʻsib boradi",
-      "aksiyaga boʻlgan talab doimiy ravishda oʻsib boradi.",
-      "korxona foydasi doimiy ravishda oʻsib boradi"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Moliya bozorini tartibga solishda tashqi mexanizmlar sifatida nimalar qoʻllaniladi?",
-    "options": [
-      "faoliyatga doir standantlar, etika qoidalari.",
-      "megaregulyator va makroregulyator",
-      "ichki meʼyoriy hujjatlar",
-      "ustav, faoliyatni amalga oshirish qoidalari"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Derivativlar qanday risklarni kamaytirish imkonini beradi?",
-    "options": [
-      "bazis aktiv narx o'zgarishidagi yo'qotishlarni",
-      "bazis aktivdan olinadigan daromadlarni yo'qotishni",
-      "bazis aktivga talab oshib ketmasligini oldini oladi",
-      "bazis aktiv butunligini saqlash imkonini beradi"
+      "Kreditor qarz",
+      "Kassadagi pul mablag‘i",
+      "Qo‘shimcha kapital",
+      "Xom-ashyo va materiallar"
     ],
     "correct_option_index": 0
   },
   {
-    "question": "Depo hisobvarag‘iga ega bo‘lgan shaxs qanday ataladi?",
+    "question": "2024 yilda yuridik shaxslarning foyda solig'i necha foiz qilib belgilangan",
     "options": [
-      "aksiyador",
-      "deponent",
-      "anderrayter",
-      "maxsus shaxslar."
+      0.09,
+      0.1,
+      0.15,
+      0.12
     ],
-    "correct_option_index": 1
+    "correct_option_index": 2
   },
   {
-    "question": "Eng birinchi  blokcheyn texnologiyalar asosida yaratilgan kriptovalyuta ………. hisoblanadi.",
+    "question": "Hisob - kitob schyotidan akkreditiv ochildi. Qanday buxgalteriya provodkasi beriladi?",
     "options": [
-      "TRON",
-      "Litecoin",
-      "Bitcoin Cash",
-      "Bitkoin"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Kriptovalyuta asosini tashkil etuvchi texnologiyalar nima deb ataladi?",
-    "options": [
-      "blokcheyn texnologiyalar",
-      "valyuta texnologiyalari",
-      "birja kompyuterlari ",
-      "terminallar"
+      "DT 5510 KT 5110",
+      "DT 5520 KT 5510",
+      "DT 6020 Kt 5510",
+      "Dt 5510 Kt 6010"
     ],
     "correct_option_index": 0
   },
   {
-    "question": "Aksiyalarga taalluqli bo’lgan xususiyatlarni aniqlang.",
+    "question": "Aksionerlik jamiyatining ustav kapitalini hajmi qayerda ko‘rsatiladi?",
     "options": [
-      "amal qilish muddati belgilanmagan",
-      "aksiyalarni baholab bo’lmaydi",
-      "aksiyadorlar umumiy yig’ilishida ovoz berish huquqini bermaydi",
-      "belgilangan muddatda naminal qiymati bo’yicha so’ndirilishi lozim bo’lgan qimmatli qog’oz"
+      "Boshlang’ich hujjatlarda",
+      "Dalolatnomada",
+      "Ko'rsatilmaydi",
+      "Ustavida"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Qaysi variantda uzoq muddatli aktivlar to‘g‘ri ko‘rsatilgan.",
+    "options": [
+      "xom-ashyo, yoqilg‘i, tayyor mahsulot",
+      "xaridorlar va buyurtmachilardan olingan bo‘naklar, kreditorlik qarzi",
+      "hisob-kitob schotidagi pul, tayyor mahsulot, ustav kapitali",
+      "transport vositalari, gudvill"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Uzoq muddatli  majburiyatlar nima?",
+    "options": [
+      "1-yildan ortiq muddatda to’lashi kerak bo’lgan qarzi",
+      "Bajarilmay qolgan qisqa muddatli majburiyatlari",
+      "Korxonaning uzoq muddatda bankga to’lashi kеrak bo’lgan qarzi",
+      "Korxonaning uzoq muddatli aktivlarini barpo qilish maqsadiga  yo’naltirgan va bir yildan oshiq muddatda to’lashi kеrak bo’lgan qarzi"
     ],
     "correct_option_index": 0
   },
   {
-    "question": "Aktivlar narx darajasining oʻsishi, pasayishi yoki ularning barqaror holatiga olib kelishi mumkin boʻlgan omillarni aniqlashga asoslangan tahlil - …?",
+    "question": "O'zbekiston Respublikasi “Buxgaltyeriya hisobi to’g’risida”gi qonuniga muvofiq qaysi davr moliyaviy hisobot davri bo’lib hisoblanadi?",
     "options": [
-      "statistik tahlili (statistical analysis).",
-      "texnik tahlil (technical analysis)",
-      "fundamental tahlil (fundamental analysis)",
-      "qimmatli qogʻozlar tahlili (security analysis)"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Talab va taklif ta'sirida valyutaning qanday kursi shakllanadi?",
-    "options": [
-      "tijorat kursi",
-      "nominal kurs",
-      "real kurs",
-      "rasmiy kurs."
-    ],
-    "correct_option_index": 2
-  },
-  {
-    "question": "Qonunchilikda belgilangan tartibda moliyaviy resurslarni investitsiyalar tarzida emitentlarning moliyaviy instrumentlariga yo’naltirish maqsadida moliya bozoriga chiqaruvchi shaxs va organlarga nima deyiladi?",
-    "options": [
-      "depozitariylar",
-      "transfert agent",
-      "investorlar",
-      "emitentlar"
-    ],
-    "correct_option_index": 2
-  },
-  {
-    "question": "Moliya bozorini tartibga solishda makroregulyator orqali tartibga solish amaliyotida - …?",
-    "options": [
-      "ichki tartibga solish ichki meʼyoriy hujjatlar asosida.",
-      "oʻzaro muvofiqlashtirilgan holda tartibga solish amaliyoti qoʻllaniladi",
-      "bevosita davlat tomonidan tartibga solishni nazarda tutadi va odatda qimmatli qogʻozlar bozorini tartibga solish boʻyicha vakolatli davlat organi belgilanadigan",
-      "moliya bozori ishtirokchilari faoliyati tashkil etilishini nazarda tutadi"
-    ],
-    "correct_option_index": 2
-  },
-  {
-    "question": "Uni chiqargan shaxs va egasi oʻrtasidagi qarz munosabatni tasdiqlovchi qimmatli qogʻoz turi bu-",
-    "options": [
-      "yevrodollar",
-      "obligatsiya",
-      "aksiya",
-      "yevroaksiya"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Dow Jones Indexes qachon va kim tomonidan ilk bor “Wall Street Journal” jurnalida birja indeksi sifatida taklif etilgan?",
-    "options": [
-      "1886 yil 7 iyul Don Jons tomonidan",
-      "1884 yil 3 iyul Charlz Dou tomonidan",
-      "1881 yil 2 iyul Daniel Jons tomonidan",
-      "1883 yil 5 iyul Maykl Jons tomonidan"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Fyuchers narxini spot narxidan yuqori boʻlish holati nima deb ataladi?",
-    "options": [
-      "stredl ",
-      "kontango ",
-      "spred.",
-      "bekuordeyshn"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Xalqaro aksiyalar bozorida qoʻllaniladigan depozitar tilxatlarning asosiy turlari toʻgʻri keltirilgan javobni aniqlang",
-    "options": [
-      "ODR, YEDR, ADR",
-      "ODR, ADR, GDR",
-      "XDR, GDR, YEDR",
-      "ADR, GDR"
+      "1 yanvar – 10 yanvar",
+      "1 yanvar – 1 dyekabr ",
+      "1 yanvar – 31 yanvar",
+      "1 yanvar – 31 dyekabr"
     ],
     "correct_option_index": 3
   },
   {
-    "question": "Obligatsiyaga tegishli xususiyat qaysi javobda to'g'ri keltirilgan…?",
+    "question": "Nomoddiy aktivlarni hisobi qaysi BHMS asoslanadi tartibga solinadi?",
     "options": [
-      "o’z egasiga mazkur AJga tasischi bo’lib kirish xuququini beradi",
-      "aksiyadorlik jamiyati umumiy yig’ilishida ovoz berish xuququini beradi",
-      "aksiyadorlik jamiyati foyda olmay qolgan xolda, uning egasi dividend olmay qolishi mumkin",
-      "uni sotib olgan investor emitentning kreditoriga aylanadi va foiz ko'rinishida daromad oladi"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Qaysi qimmatli qog'oz yuqori riskli hisoblanadi?",
-    "options": [
-      "munisipal obligatsiyalar",
-      "davlat qimmatli qog'ozlari",
-      "obligatsiya",
-      "aksiya"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Svop shartnomalarining mohiyati toʻgʻri keltirilgan javobni aniqlang.",
-    "options": [
-      "bu shartnomalar birjadan tashqarida tuziluvchi, kelajakda bazis aktivni yetkazib berish haqidagi tomonlarning kelishuvidir.",
-      "bu shartnomalarning oʻziga xos xususiyati shundan iboratki, uning egasi qimmatli qogʻozning oʻzini emas balki uni sotib olish yoki sotish huquqini maʼlum bir mukofot evaziga sotib oladi",
-      "bu shartnomalar standartlashtirilgan boʻlib, ular faqatgina birja savdolarining obyekti sifatida nomoyon boʻladi",
-      "bu ikki tomonning oldindan kelishilgan shartlariga muvofiq kelajakda maʼlum bir toʻlovlarni va yoki bazis aktivlarni (kelishilgan miqdorda ) almashtirish boʻyicha bitimidir"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Bozor omillari oʻzgarishi oqibatida aktiv qiymatini pasayishi bogʻliq boʻlgan risklar .... hisoblanadi?",
-    "options": [
-      "foiz risklari",
-      "bozor risklari",
-      "kredit rsiki",
-      "valyuta riski."
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Yuridik shaxsning fuqarolik huquqlarining ob'ekti sifatida qimmatli qog‘ozlar paydo bo‘lishiga qaratilgan harakatlari nima deb nomlanadi?",
-    "options": [
-      "valyuta emissiyasi",
-      "pul emissiyasi",
-      "qimmatli qog‘ozlarni chiqarish",
-      "derivativlar emissiyasi."
-    ],
-    "correct_option_index": 2
-  },
-  {
-    "question": " Ipoteka bu…?",
-    "options": [
-      " real aktiv bilan ta’minlangan uzoq muddatli kreditdir",
-      "   ipoteka amaliyotini moliyalashtirish maqsadida muomilaga chiqariladigan va uzoq muddatli ipoteka bilan ta’minlangan qimmatli qog’oz",
-      "  emissiyaviy ipoteka qimmatli qog’ozi, bo'lib bu barcha obligatsiyalar",
-      "emissiyalanmaydigan qimmatli qog’ozlar"
+      "№7 BHMS",
+      "№6 BHMS",
+      "№21 BHMS",
+      "№1 BHMS"
     ],
     "correct_option_index": 0
   },
   {
-    "question": "Oddiy aksiya doimo qanday huquqni beradi?",
+    "question": "Sotib olinayotgan asosiy vositalarning qiymati chek bilan to‘langanda. Qanday buxgalteriya provodkasi beriladi? ",
     "options": [
-      "ovoz berish huquqi faqat agar jamiyat balansida bo‘lsa",
-      "aksionerni reestrga kiritish huquqini",
-      "jamiyat umumiy yig‘ilishlarida qisman qatnashish huquqini",
-      "ovoz berish huquqini"
+      "Dt 0520 Kt 5520",
+      "Dt 0820 Kt 5520",
+      "Dt 0620 Kt 5520",
+      "Dt 1020 Kt 5520"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Boshqaruv xodimlariga ish haqqi hisoblandi. Qanday buxgalteriya provodkasi beriladi?",
+    "options": [
+      "Dt 2310  Kt 6710",
+      "Dt 2530  Kt 6710",
+      "Dt 9420  Kt 6710",
+      "Dt 2010  Kt 6710"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Buxgalteriya balansining joriy aktivlar tarkibi qaysi variantda to’g’ri keltirilgan?",
+    "options": [
+      "tovar-moddiy zaxiralar, asosiy vositalar va nomoddiy aktivlar qiymati, muddati kechiktirilgan xarajatlarning joriy qismi, debitorlik qarzlari, pul mablag’lari, qisqa muddatli moliyaviy qo’yilmalar.",
+      "asosiy vositalar va nomoddiy aktivlar qiymati, uzoq muddatli investisiyalar, o’rnatiladigan uskunalar, kapital qo’yilmalar, uzoq muddatli debitorlik qarzlari.",
+      "ustav sarmoyasi, qo’shilgan sarmoya, zaxira sarmoya, sotib olingan o’z aksiyalari, taqsimlanmagan foyda (qoplanmagan zarar), maqsadli tushumlar hamda bo’lg’usi xarajatlar",
+      "tovar-moddiy zaxiralar, kelgusi davrlar xarajatlari, muddati kechiktirilgan xarajatlarning joriy qismi, debitorlik qarzlari, pul mablag’lari, qisqa muddatli moliyaviy qo’yilmalar."
     ],
     "correct_option_index": 3
   },
   {
-    "question": "Yevropada ipotekaga asoslangan eng yirik obligatsiya bozorini aniqlang.",
+    "question": "Chet el firmasiga material uchun mamlakat ichidagi valyuta schyotidan pul o’tkazildi. Qanday buxgalteriya provodkasi beriladi?",
     "options": [
-      "Germaniya bozori ",
-      "Angliya bozori",
-      "Fransiya bozori",
-      "Italiya bozori "
+      "Dt 6010 Kt 5210",
+      "Dt 4010 Kt 5210",
+      "Dt 6810 Kt 5210",
+      "Dt 1000 Kt 5210"
     ],
     "correct_option_index": 0
   },
   {
-    "question": "Yevroobligatsiyalardan foydalanish amaliyotidagi oʻziga xos kamchiliklar qaysi javobda keltirilgan?  ",
+    "question": "Uzoq muddatli aktivlar qaysi schyotlarda aks ettiriladi?",
     "options": [
-      " Axborotlarni oshkor etish boʻyicha qarz oluvchiga nisbatan jiddiy talablarning mavjudligi ",
-      "Yevroobligatsiya muomalaga chiqarish jarayonining yuqori miqdorda xarajatlar talab qilmasligi ",
-      "Qimmatli qogʻozlarni tayyorlash va joylashtirishning koʻp vaqt talab qilmasligi ",
-      "Foiz stavkalarining juda pastligi"
+      "0100-0900",
+      "6000-6900",
+      "7000-7900",
+      "9000-9900"
     ],
     "correct_option_index": 0
   },
   {
-    "question": "Mijozning barcha pul talablarini uning barcha pul majburiyatlariga nisbatan hisobga olish orqali amalga oshiriladigan kliring usuli bu…?",
+    "question": "Matеriallar asоsiy ishlab chiqarishga bеrildi.",
     "options": [
-      "netting",
-      "doimiy kliring",
-      "brutto.",
-      "ko‘ptomonlama kliring"
+      "Dt 2510 Kt 1010",
+      "Dt 2010 KT 1010",
+      "Dt 1010 Kt 2010",
+      "Dt 2310  Kt 1010"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Dividеnd kassadan bеrilganda qanday buxgaltеriya provodkasi bеriladi",
+    "options": [
+      "Dt 6210  Kt 5010",
+      "Dt 6710  Kt5010",
+      "Dt 6610  Kt 5010",
+      "Dt 6510  Kt 5010"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Qaysi variantda majburiyatlar to‘g‘ri ko‘rsatilgan.",
+    "options": [
+      "xaridorlar va buyurtmachilardan olingan bo‘naklar, kreditorlik qarzi",
+      "debitor qarz, ustav  kapitali",
+      "xom-ashyo, yoqilg‘i, tayyor mahsulot",
+      "hisob-kitob schotidagi pul, tayyor mahsulot, ustav kapitali"
     ],
     "correct_option_index": 0
   },
   {
-    "question": "Imtiyozli aksiya qanday huquqni beradi?",
+    "question": "Foiz ko'rinishidagi daromad hisoblanganda qanday buxgalteriya beriladi.",
     "options": [
-      "jamiyat umumiy yig‘ilishlarida ishtirok etish",
-      "cheklangan ovoz huquqini berish.",
-      "qa'tiy daromad olish",
-      "jamiyat moliyaviy holati to‘g‘risida axborot olish"
-    ],
-    "correct_option_index": 2
-  },
-  {
-    "question": "Qimmatli qog‘ozlarni chiqarish, joylashtirish va ularning muomalasi bilan bog‘liq xizmatlar ko‘rsatish bo‘yicha lisenziyalanadigan yoki vakolatli organni xabardor qilish tartibida amalga oshiriladigan faoliyat turi nima deb nomlanadi?",
-    "options": [
-      "vazirliklar faoliyati.",
-      "birja faoliyati",
-      "banklar faoliyati",
-      "qimmatli qog‘ozlar bozorida faoliyat"
+      "Dt4730 Kt9530",
+      "Dt4230 Kt9530",
+      "Dt4630 Kt9530",
+      "Dt 4830 Kt 9530"
     ],
     "correct_option_index": 3
   },
   {
-    "question": "Moliya bozorining Islom modelini shakllanish sababi toʻgʻri keltirilgan javobni aniqlang.",
+    "question": "Kassa tеkshirilganda ortiqcha  pul aniqlandi, buxgaltеriya provodkasini bеring.",
     "options": [
-      "biznesga investitsiya kiritishdagi turli cheklovlar sababli",
-      "neft eksportidan yuqori daromad kelishi sababli",
-      "foiz olishga qoʻyilgan taʼqiq sababli",
-      "obligatsiyalar bozorining mavjud emasligi sababli"
+      "Dt 5010 Kt 6810",
+      "Dt 5010  Kt 9390",
+      "Dt 5010 Kt 6110",
+      "Dt 5010 Kt 4730"
     ],
     "correct_option_index": 1
   },
   {
-    "question": "Aksiyaning nominal qiymati deganda:",
+    "question": "Qisqa muddatli (joriy) investitsiyalar bu.....?",
     "options": [
-      "dizajio tushuniladi",
-      "aksiya kursi tushuniladi",
-      "uning bozorda sotiladigan narxi tushuniladi",
-      "aksiyada yozilgan pul summasi tushuniladi"
+      "xo‘jalik yurituvchi subyekt tasarrufidagi (foiz, royalti, dividend va ijara haqqi shaklida) daromad olishga mo‘ljallangan, investitsiya qilingan kapital qiymatining ortishi yoki investitsiya qiluvchi kompaniyaning boshqa naf olish uchun foydalanadigan aktivlar.",
+      "muomalada bo‘lish muddati 12 oydan oshmaydigan oson realizatsiya qilinadigan investitsiyalar.",
+      "qisqa muddatli (joriy) investitsiyadan tashqari barcha investitsiyalar.",
+      "investitsiya qiluvchi subyektning yoki investitsiya qiluvchi subyekt guruhiga kiruvchi boshqa subyektning ishlab chiqarish faoliyati davomida foydalanilmaydigan yer maydonlariga yoki imoratlarga investitsiyalar."
     ],
-    "correct_option_index": 3
+    "correct_option_index": 1
   },
   {
-    "question": "   Ipoteka bozorining nechta modellari mavjud?",
+    "question": "Xizmat safari uchun xodimga naqd pul bilan bo’nak bеrildi",
     "options": [
-      " 3 ta",
-      "   5 ta",
-      " 9 ta",
-      "   6 ta"
+      "Dt 4520  Kt 5010",
+      "Dt 4220  Kt 5010",
+      "Dt 4630  Kt 5010 ",
+      "Dt 4210  Kt 5010"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Ustav kapitali balansning qaysi bo’limida  ko’rsatiladi?",
+    "options": [
+      "Aktiv, 2-bo’limida",
+      "Passiv, 1-bo’limida",
+      "Aktiv, 1-bo’limida",
+      "Passiv,2-bo’limida"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Passiv schyotlarda oxirgi qoldiq qanday aniqlanadi? ",
+    "options": [
+      "Bosh qoldiq + Kredit  oborot – Debet  oborot",
+      "Kredit oborot + Debet oborot",
+      "Debet  oborot – Kredit oborot",
+      "Oxirgi qoldiq + Debet  oborot – Kredit oborot"
     ],
     "correct_option_index": 0
   },
   {
-    "question": "Yevroaksiyalar – bu …?",
+    "question": "Hisob - kitob schyotidan kassaga naqd pul kirim qilindi. Qanday buxgalteriya provodkasi beriladi?",
     "options": [
-      "amerika banklari boʻlinmalari va boshqa davlat banklari tomonidan xorijiy valyutada (asosan AQSH dollarida ) chiqarilgan qimmatli qogʻozlar.",
-      "maʼlum bir miqdordagi amerika depozitar aksiyalariga egalikni tasdiqlovchi qimmatli qogʻoz",
-      "transmilliy kompaniyalar, banklar, investitsion fondlarning boshqa mamlakatlar bozorlarida savdoga qoʻyadigan aksiyalaridir",
-      "kompaniyalar, umumiy holda transmilliy kompaniyalar, banklar, investitsion fondlarning ham milliy bozorda, ham boshqa mam­lakatlar bozorlarida savdoga qoʻyiladigan aksiyalaridir"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Ommaviy va oshkora birja savdolarini oldindan belgilangan joyda va belgilangan vaqtda o‘rnatilgan qoidalar asosida tashkil etish hamda o‘tkazish orqali faqat qimmatli qog‘ozlar savdosi uchun sharoitlar yaratib beruvchi yuridik shaxs:",
-    "options": [
-      "xalqaro birja.",
-      "fond birjasi",
-      "valyuta birjasi",
-      "agro birja"
+      "Dt 5210 Kt 5110",
+      "Dt 5010 Kt 5110",
+      "Dt 5510 Kt 5010",
+      "Dt 5010 Kt 5210"
     ],
     "correct_option_index": 1
   },
   {
-    "question": "Nima uchun hosilaviy qimmatli qog'ozlar moliyaviy risklarni kamaytirishda samarali usul hisoblanadi?",
+    "question": "Balans so’zining lug’aviy ma'nosi...",
     "options": [
-      "bunday shartnomalar yangi mijoz topish imkonini beradi",
-      "hosilaviy qimatli qog'ozlar bazis aktivni sotish majburiyatini yuklaydi",
-      "hosilaviy qimmatli qog'ozlar risklarni xedjirlash imkonini beradi",
-      "hosilaviy qimmatli qog'ozlar bazis aktivni sotib olish imkonini beradi"
-    ],
-    "correct_option_index": 2
-  },
-  {
-    "question": "Birjada muomilada bo'luvchi opsion bu -…? ",
-    "options": [
-      "yevropa opsioni",
-      "nostandart opsion",
-      "amerika opsioni",
-      "standartlashtirilgan opsion"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Portfel nazariyasi va moliya bozori fani qaysi fanlar bilan uzviy bog'langan? ",
-    "options": [
-      "investitsiya, bojxona ishi, moliya",
-      "moliya, investitsiya, birja ishi",
-      "bank ishi, moliya, logistika",
-      "baholash ishi, falsafa, birja ishi"
+      "Aktiv va majburiyatlarning tyengligi ",
+      "Lotincha ikki palla",
+      "Bir tomonning tyengligi ",
+      "xususiy kapital"
     ],
     "correct_option_index": 1
   },
   {
-    "question": "Qimmatli qog‘ozlarga doir narxlar, talab va taklif darajasini saqlab turish uchun birja bitimlarini tuzish majburiyatini o‘z zimmasiga olgan investisiya vositachisi kim?",
+    "question": "Buxgaltеriya balansining passiv qismi qaysi bo’limlardan  iborat?",
     "options": [
-      "market meyker",
-      "investor",
-      "deponent.",
-      "vositachi"
+      "Uzoq muddatli aktivlar va majburiyatlar",
+      "o’z mablag’lari manbalari va majburiyatlar",
+      "majburiyatlar va joriy aktivlar",
+      "o’z mablag’lari manbalari va joriy aktivlar"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Mahsulotni sotishdan olingan yalpi foyda qanday aniqlanadi",
+    "options": [
+      "AFF+MD-MX",
+      "STF=UF+FP-FZ",
+      "YaF=YaF-DX+BD-BZ",
+      "YaF=SST-IT"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Baholash – bu….",
+    "options": [
+      "xo’jalik mablag’lari va jarayonlarini pul o’lchov birligida ifodalash",
+      "mahsulot tannarxini aniqlash",
+      "kassada tushumni aniqlash",
+      "ombordagi materiallarni qayta ro’yxatdan o’tkazish"
     ],
     "correct_option_index": 0
   },
   {
-    "question": "Fond birjasida listing bu…?",
+    "question": "Qaysi variantda joriy aktivlar to‘g‘ri ko‘rsatilgan.",
     "options": [
-      "birja kotirovka varag'iga chiqish",
-      "birja kotirovka varag'iga kirish",
-      "birka kotirovkasini e'lon qilish tadbiri",
-      "birjada talab va taklifni o'rganish tadbiri"
+      "hisob-kitob schotidagi pul, tayyor mahsulot, ustav kapitali",
+      "xom-ashyo, pul mablag’lari , tayyor mahsulot, debitor qarz",
+      "asosiy vositalar, kreditorlik qarzi",
+      "debitor qarz, ustav  kapitali"
     ],
     "correct_option_index": 1
   },
   {
-    "question": "Moliya bozorini tartibga solishda davlatning arbitraj funksiyasida – …?",
+    "question": "Asosiy vositalar nima?",
     "options": [
-      "moliya bozori ishtirokchilari faoliyati bevosita maʼmuriy tartibga solinadi",
-      "moliya bozori ishtirokchilari oʻrtasida nizoli vaziyatlar hal qilinadi",
-      "moliya bozori faoliyati boʻyicha meʼyoriy-huquqiy hujjatlar ishlab chiqiladi",
-      "moliya bozori ishtirokchilari tomonidan yoʻl qoʻyilishi mumkin boʻlgan huquqbuzarliklarning oldini olinadi."
+      "ishlarni bajarish yoki xizmatlar ko‘rsatish jarayonida yoxud maʼmuriy va ijtimoiy-madaniy vazifalarni amalga oshirish maqsadida foydalanish uchun tutib turiladigan moddiy aktivlar;",
+      "korxona tomonidan uzoq muddat davomida xo‘jalik faoliyatini yuritishda mahsulot ishlab chiqarish, ishlarni bajarish yoki xizmatlar ko‘rsatish jarayonida yoxud maʼmuriy va ijtimoiy-madaniy vazifalarni amalga oshirish maqsadida foydalanish uchun tutib turiladigan moddiy aktivlar;",
+      "asosiy vositalarni yaratish (qurish va qurib bitkazish) yoki xarid qilish bo‘yicha qilingan xarajatlarning qiymati, shu jumladan to‘langan va qoplanmaydigan soliqlar (yig‘imlar), shuningdek aktivni undan maqsadga muvofiq foydalanish uchun ishchi holatiga keltirish bilan bevosita bog‘liq bo‘lgan yyetkazib berish va montaj qilish, o‘rnatish, ishga tushirish va istalgan boshqa xarajatlar;",
+      "foydali xizmat muddati mobaynida aktivning amortizatsiyalanadigan qiymatini asosiy vositalarning vazifasidan kelib chiqqan holda mahsulot (ishlar, xizmatlar) tannarxiga yoki davr xarajatlariga tizimli taqsimlash va o‘tkazish ko‘rinishida eskirishning qiymat ifodasi;"
     ],
     "correct_option_index": 1
   },
   {
-    "question": "Davlat qimmatli qog'ozlarining daromad keltirish shakliga ko'ra qanday turlari mavjud?",
+    "question": "Nomoddiy aktivlar qayta baholanganda oshgan summasiga qanday buxgalteriya yozuvi beriladi",
     "options": [
-      "faqat kuponli daromad keltiradi",
-      "faqat diskontli daromad keltiradi",
-      "kuponli va dividend to'lanadigan",
-      "kuponli va diskontli"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Taʼminlangan obligatsiyalarning emitent va investor uchun afzalliklari nimalardan iborat?",
-    "options": [
-      "emitent uchun qoplash muddatidan avval qaytarib olinganlik uchun toʻlov va investor uchun obligatsiyaga egalik qilish huquqi cheklanganligi",
-      "emitent uchun obligatsiyani joylashtirish boʻyicha muammoning deyarli yoʻqligi va investor uchun qarz majburiyatni qaytarish kafolati yuqori darajadaligi",
-      "emitent uchun moddiy aktivlarning garov riski mavjudligi va in­vestor uchun boshqa obligatsiyalarga nisbatan foizli daromadning pastligi",
-      "emitent uchun qarz majburiyati qiymati pasayishi imkoniyati va investor uchun qoʻyilmalar xavfsizligining yuqori darajasi"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Aksiya – bu…?",
-    "options": [
-      "o’z egasiga aksiyadorlar umumiy yig’ilishida qatnashish huquqini bermaydigan qimmatli qog'oz",
-      "emeitentning qarzdorligi va bu qarz uchun foiz to’lash zarurligi haqida guvohlik beruvchi qimmatli qog’oz",
-      "o’z egasiga dividend olish huquqini beruvchi qimmatli qog’ozdir",
-      "o’z egasiga yutuq keltiruvchi qimmatli qog’ozdir"
+      "Dt 0400   Kt 8330",
+      "Dt 0400   Kt 8810",
+      "Dt 0400   Kt 8510",
+      "Dt 0400   Kt 8610"
     ],
     "correct_option_index": 2
   },
   {
-    "question": "Yevropacha opsion",
+    "question": "Qaysi variantda tovar moddiy zaxiralar to‘g‘ri ko‘rsatilgan.",
     "options": [
-      "opsion asosidagi aktivning joriy bozor bahosi bilan optsionni bajarish bahosi o’rtasidagi farq",
-      "opsion yozuvchisi tomonidan opsionni sotish",
-      "bazisdagi aktivlarning joriy bozor kursi",
-      "belgilangan muddat tugayotgan kunda bajarilishi mumkin bo’lgan opsion"
+      "debitor qarz, ustav  kapitali",
+      "asosiy vositalar, kreditorlik qarzi",
+      "hisob-kitob schotidagi pul, tayyor mahsulot, ustav kapitali",
+      "xom-ashyo, yoqilg‘i, tayyor mahsulot"
     ],
     "correct_option_index": 3
   },
   {
-    "question": "Moliyaviy instrumentlar qisqa muddatli bo‘lib hisoblanadi, agar ularning muddati:",
+    "question": "Aktiv schyotlarda oxirgi qoldiq qanday aniqlanadi? ",
     "options": [
-      "olti yilgacha",
-      "besh yilgacha",
-      "uch yilgacha.",
-      "bir yilgacha"
+      "Debet oborot – Kredit oborot",
+      "Bosh qoldiq + Kredit  oborot –  Debet oborot",
+      "Bosh qoldiq + Debet  oborot – Kredit  oborot",
+      "Debet oborot + Kredit oborot"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Tovar-moddiy zaxiralar qaysi BHMS asosida hisobga oladi?",
+    "options": [
+      "№1 BHMS",
+      "№14 BHMS",
+      "№6 BHMS",
+      "№4 BHMS"
     ],
     "correct_option_index": 3
   },
   {
-    "question": "EPS qanday ko'rsatkich?",
+    "question": "Ma'muriy xarajatlar qaysi moliyaviy hisobot shaklida aks ettiriladi?",
     "options": [
-      "bitta aksiyaga to'g'ri keladigan daromad",
-      "bitta aksiyaga to'g'ri keladigan dividend",
-      "aksiya bahosining foydaga nisbati",
-      "baho-tushum koeffisenti"
+      "buxgaltyeriya balansida",
+      "asosiy vositalar harakati to’g’risidagi hisobotda",
+      "pul oqimlari to’g’risidagi hisobotda",
+      "moliyaviy natijalar to’g’risidagi hisobotda"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Buxgalteriya balansining uzoq muddatli aktivlar tarkibi qaysi variantda to’g’ri keltirilgan?",
+    "options": [
+      "tovar-moddiy zaxiralar, asosiy vositalar va nomoddiy aktivlar qiymati, muddati kechiktirilgan xarajatlarning joriy qismi, debitorlik qarzlari, pul mablag’lari, qisqa muddatli moliyaviy qo’yilmalar.",
+      "tovar-moddiy zaxiralar, kelgusi davrlar xarajatlari, muddati kechiktirilgan xarajatlarning joriy qismi, debitorlik qarzlari, pul mablag’lari, qisqa muddatli moliyaviy qo’yilmalar.",
+      "asosiy vositalar va nomoddiy aktivlar qiymati, uzoq muddatli investisiyalar, o’rnatiladigan uskunalar, kapital qo’yilmalar, uzoq muddatli debitorlik qarzlari.",
+      "ustav sarmoyasi, qo’shilgan sarmoya, zaxira sarmoya, sotib olingan o’z aksiyalari, taqsimlanmagan foyda (qoplanmagan zarar), maqsadli tushumlar hamda bo’lg’usi xarajatlar"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Asosiy vositalar bеpul olinganda qanday buxgaltеriya provodkasi bеriladi?",
+    "options": [
+      "Dt 0160 Kt 8530",
+      "Dt 0260 Kt 8530",
+      "Dt 0160 Kt 8520",
+      "Dt 0160 Kt 8510"
     ],
     "correct_option_index": 0
   },
   {
-    "question": "Mamlakatdan tashqarida qattiq valyutada sotiladigan obligatsiya turini aniqlang.",
+    "question": "O'zbekiston Respublikasining «Buxgaltyeriya hisobi to’g’risida»gi qonuniga muvofiq yillik asosiy moliyaviy hisobot nechta shakldan iborat?",
     "options": [
-      "korporativ obligatsiyalar",
-      "yevroobligatsiya",
-      "konvert obligatsiyalar",
-      "munitsipal obligatsiyalar"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Investitsiya va pay fondlari toʻgʻrisida”gi OʻzR qonuniga koʻra, “Investorlarning pul mablagʻlarini jalb etish va ularni investitsiya aktivlariga qoʻyish maqsadida aksiyalar chiqarishni amalga oshiruvchi yuridik shaxs – aksiyadorlik jamiyati – …?",
-    "options": [
-      "valyuta fondi.",
-      "kredit",
-      "investitsiya fondi",
-      "jamgʻarma"
-    ],
-    "correct_option_index": 2
-  },
-  {
-    "question": "Opsion kolni sotish investor uchun jozibador, sababi bu operatsiya",
-    "options": [
-      "past riskli hisoblanadi",
-      "mukofot pulini olish imkonini beradi",
-      "moliyaviy “richag” samarasini qo’llash imkonini beradi",
-      "chegaralanmagan foyda keltiradi"
-    ],
-    "correct_option_index": 1
-  },
-  {
-    "question": "Qimmatli qog’ozlar bozorini muvofiqlashtirishni qaysi usulida fond bozori uyushgan xolda tartibga solinadi",
-    "options": [
-      "indikativ",
-      "nodavlat",
-      "ma’muriy",
-      "korporativ"
+      5,
+      3,
+      2,
+      4
     ],
     "correct_option_index": 3
   },
   {
-    "question": "Bazis aktiv bu -…? ",
+    "question": "Akkreditiv hisobidan mol yetkazib beruvchilarga qarz to’landi. Qanday buxgalteriya provodkasi beriladi?",
     "options": [
-      "spot bozorda savdosi amalga oshirilayotgan aktiv",
-      "muddatli shartnomaning asosini tashkil etuvchi aktiv",
-      "faqatgina qimmatbaho metallar bazis aktiv bo'la oladi",
-      "barcha qimmatli qog'ozlar"
+      "DT 6010 KT 5110",
+      "DT 6010 KT 5510",
+      "DT 6020 KT 5530",
+      "DT 5510 KT 6010"
     ],
     "correct_option_index": 1
   },
   {
-    "question": "Quyidagi davlatlarning qaysi birida moliya bozorini tartibga solishda megaregulyator mavjud emas?",
+    "question": "Asosiy vositalar qiymati korxona balansidan qanday natijalarda(hollarda) hisobdan chiqariladi?",
     "options": [
-      "Janubiy Koreya.",
-      "Germaniya",
-      "AQSH",
-      "Buyuk Britaniya"
+      "kapital qo’yilmalar tugaganidan so’ng qurilgan obyektni qabul qilish-topshirish, obyektni oldi-sotdi shartnomasi bo’yicha xarid qilish, ta’sischilarning ustav kapitaliga hissalari, tekinga kelib tushish (hadya shartnomasi bo’yicha), ayirboshlash.",
+      "tugatilganda, sotilganda, ayirboshlanganda, tekinga berilganda, ustav kapitaliga ta’sischi ulushi sifatida berilganda.",
+      "tugatilganda, sotilganda, ayirboshlanganda, tekinga berilganda, ustav kapitaliga ta’sischi ulushi sifatida berilganda, obyektni oldi-sotdi shartnomasi bo’yicha xarid qilish.",
+      "kapital qo’yilmalar tugaganidan so’ng qurilgan obyektni qabul qilish-topshirish, obyektni oldi-sotdi shartnomasi bo’yicha xarid qilish, ta’sischilarning ustav kapitaliga hissalari, tekinga kelib tushish (hadya shartnomasi bo’yicha), sotilganda."
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Buxgaltyeriya hisobi ob'yektlariga nimalar kiradi?",
+    "options": [
+      "Xo’jalik jarayonlari",
+      "Xo’jalik mablag’lari, mablag’larning tashkil topish manbalari, xo’jalik jarayonlari, moliyaviy natijalar",
+      "Mablag’lar",
+      "Moliyaviy natijalar"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "№5 BHMSga asosan asosiy vositalarga amortizasiya hisoblashning  necha xil usuli keltirilgan?",
+    "options": [
+      3,
+      5,
+      4,
+      1
     ],
     "correct_option_index": 2
   },
   {
-    "question": "Bazis aktivni sotib olish yoki sotish huquqini taqdim etuvchi muddatli shartnoma bu -…? ",
+    "question": "Mol еtkazib bеruvchilarga bеrilgan bo’naklar hisobdan chiqarilganda qanday buxgaltеriya provodkasi bеriladi?",
     "options": [
-      "fyuchers",
-      "svop",
-      "opsion",
-      "forvard"
+      "Dt 4310  Kt 5110",
+      "Dt 4210  Kt 5110",
+      "Dt 6010  Kt 4310",
+      "Dt 4310  Kt 6500"
     ],
     "correct_option_index": 2
   },
   {
-    "question": "Ipoteka bozorida bankning taʼminlangan obligatsiya tipidagi qimmatli qogʻozlarni mustaqil chiqarishi va shu asosda garovga qoʻyilayotgan koʻchmas mulkni kreditga berishi bilan tavsiflanuvchi model nima deb ataladi?",
+    "question": "Davr xarajatlari hisobot davri oxirida hisobdan chiqarildi",
     "options": [
-      "yevropa modeli ",
-      "aralash yoki gibrid model.",
-      "ssuda jamgʻarma modeli ",
-      "amerika modeli"
+      "Dt 9910 Kt 9320",
+      "Dt 9910 Kt 9120",
+      "Dt 9910 Kt 9220",
+      "Dt 9910 Kt 9420"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Qaysi variantda xususiy kapitallar to‘g‘ri ko‘rsatilgan.",
+    "options": [
+      "xaridorlar va buyurtmachilardan olingan bo‘naklar, kreditorlik qarzi",
+      "hisob-kitob schotidagi pul, tayyor mahsulot, ustav kapitali",
+      "xom-ashyo, yoqilg‘i, tayyor mahsulot",
+      "pay va ulushlar, ustav  kapitali, rezerv kapitali"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Xodimning ish xaqidan daromad solig‘i  ushlab qolinganda qanday buxgalteriya provodkasi beriladi?",
+    "options": [
+      "Dt 6710 Kt 6510",
+      "Dt 2010 Kt 6710",
+      "Dt 6710 Kt 6410",
+      "Dt 6710 Kt 6990"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Tovarni sotishdan sof tushum summasi hisob - kitob schyotiga kelib tushdi. Qanday buxgalteriya provodkasi beriladi? ",
+    "options": [
+      "Dt 5110 Kt 4010",
+      "Dt 5110 Kt 4310",
+      "Dt 5110 Kt 6010",
+      "Dt 5510 Kt 4610"
     ],
     "correct_option_index": 0
   },
   {
-    "question": "Ro‘yxatdan o‘tkazilgan qimmatli qog‘ozlar egalarining belgilangan sanadagi holatga ko‘ra shakllantirilgan, ularga qarashli egasining nomi yozilgan qimmatli qog‘ozlar emitentining nomi, ushbu qimmatli qog‘ozlarning soni, nominal qiymati, turi va xili, shuningdek reestrda ro‘yxatdan o‘tkazilgan shaxslarga axborot yuborish imkoniyatini beradigan ma'lumotlar ko‘rsatilgan ro‘yxati:",
+    "question": "Buxgaltyer so’zining ma'nosi qaysi javobda to’g’ri ko’rsatilgan?",
     "options": [
-      "pul egalarining reyestri",
-      "qimmatli qog‘ozlar egalarining reyestri",
-      "valyutalar reyestri.",
-      "depozitlar reyestri"
+      "Fransuzcha yuritmoq",
+      "Lotincha saqlamoq",
+      "Nyemischa buch-kitob, halten-tutmoq",
+      "Lotincha yozmoq"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Materyallar asosiy ishlab chiqarishga berildi. Qanday buxgalteriya provodkasi beriladi?",
+    "options": [
+      "Dt 1010 Kt 2010",
+      "Dt 2010 Kt 1010",
+      "Dt 2310  Kt 1010",
+      "Dt 2510 Kt 1010"
     ],
     "correct_option_index": 1
   },
   {
-    "question": "Birjalar faqat ... shaklida tashkil etiladi.",
+    "question": "Asosiy vositalar qaysi BHMS asosida hisobga oladi?",
     "options": [
-      "ma'suliyati cheklanmagan jamiyatlari",
-      "ma'suliyati cheklangan jamiyatlari",
-      "aksiyadorlik jamiyatlari",
-      "YTT"
-    ],
-    "correct_option_index": 2
-  },
-  {
-    "question": "Oʻz egasining aksiyadorlik jamiyati foydasining bir qismini dividendlar tarzida olishga, aksiyadorlik jamiyatini boshqarishda ishtirok etishga va u tugatilganidan keyin qoladigan mol-mulkning bir qismiga boʻlgan huquqini tasdiqlovchi, amal qilish muddati belgilanmagan, egasining nomi yozilgan emissiyaviy qimmatli qogʻoz turi qanday nomlanadi?",
-    "options": [
-      "obligatsiya",
-      "veksel",
-      "aksiya",
-      "depozit sertifikatlari."
-    ],
-    "correct_option_index": 2
-  },
-  {
-    "question": "Fond bozori holatini oʻrganishga qaratilgan tahlil boʻlib, oʻtgan savdo narxlarini oʻrganish maqsadida, ularning kelajakdagi ehtimoliy rivojlanish yoʻnalishlarini aniqlashdan iborat tahlil – bu ? ",
-    "options": [
-      "statistik tahlili (statistical analysis)",
-      "fundamental tahlil",
-      "qimmatli qogʻozlar tahlili (security analysis)",
-      "texnik tahlil"
+      "№1 BHMS",
+      "№15 BHMS",
+      "№6 BHMS",
+      "№5 BHMS"
     ],
     "correct_option_index": 3
   },
   {
-    "question": "Investitsiya faoliyatini amalga oshirish maqsadida ikki va undan ortiq shaxslarning - investorlarning oʻzi ishonchli boshqaruvga bergan pul mablagʻlari yigʻindisi - …?",
+    "question": "To’lashga  qobiliyatsiz xaridorlar qarzi dargumon qarzlar rеzеrvi hisobidan qoplanganda qanday buxgaltеriya provodkasi bеriladi?",
     "options": [
-      "investitsiya.",
-      "sugʻurta puli",
-      "jamgʻarma",
-      "Pay fondi"
-    ],
-    "correct_option_index": 3
-  },
-  {
-    "question": "Kompaniya tugatilganda qimmatli qogʻozlarni soʻndirish tartibi toʻgʻri keltirilgan javobni belgilang.",
-    "options": [
-      "birinchi navbatda obligatsiya, so'ngra imtiyozli aksiya va oddiy aksiya",
-      "faqat oddiy va imtiyozli aksiyalar boʻyicha dividendlar toʻlana­di.",
-      "kompaniyalar tugatilganda qimmatli qogʻozlar boʻyicha hech qanday toʻlovlar amalga oshirilmaydi",
-      "avval imtiyozli aksiyalar boʻyicha dividendlar soʻngra esa obligatsiya boʻyicha foiz toʻlovlari toʻlanadi"
+      "Dt 4910 Kt 4010  ",
+      "Dt 4010 Kt 4910 ",
+      "Dt 4910 Kt 9390 ",
+      "Dt 9430 Kt 4910"
     ],
     "correct_option_index": 0
   },
   {
-    "question": "Kelajakda aktivlar kursining oshishi kutilayotgan bo’lsa, investor",
+    "question": "Dеbеt schyot 9210 va krеdit schyot 0100 nima",
     "options": [
-      "opsion kol xaridori sifatida qatnashadi",
-      "opsion put xaridori sifatida ishtirok etadi",
-      "opsion put sotuvchisi sifatida ishtirok etadi",
-      "opsion kol sotuvchisi sifatida ishtirok etadi"
+      "asosiy vositalarni hisobdan chiqarish",
+      "asosiy vositalarni kirimi",
+      "vositalarni ijaraga bеrish",
+      "vositalarni sotish"
     ],
     "correct_option_index": 0
   },
   {
-    "question": "Oltin, kumush, platina, palladiya va boshqa metallarlar bilan bogʻliq bozor munosabatlari Moliya bozorining qaysi turida qaysi sohasida amalga oshiriladi?",
+    "question": "Asosiy vositalarning chiqib ketishidan olingan daromadlar qaysi daromad turlariga kiradi",
     "options": [
-      "qimmatli qogʻozlar bozorida",
-      "valyuta bozori.",
-      "qimmatbaho metallar bozorida",
-      "sugʻurta bozorida"
+      "dividendlar ko‘rinishidagi daromadlar tarkibiga kiradi",
+      "asosiy faoliyatdan olingan daromadlarga kiradi",
+      "asosiy faoliyatning boshqa daromadlari tarkibiga kiradi",
+      "moliyaviy faoliyatdan olingan daromadlarga kiradi"
     ],
     "correct_option_index": 2
   },
   {
-    "question": "Fond indeksi – bu..?",
+    "question": "Xo’jalik mablag’lari tashkil topish manbalari nechta turga bo’linadi?",
     "options": [
-      "qimmatli qog‘ozlarni, ularni birja kotirovka varag‘iga kiritgan holda qimmatli qog‘ozlar birja savdosiga qo‘yish protsedurasi",
-      "birjaning qimatli qog‘ozlar birja listingi va delistingini amalga oshiradigan komissiyasi.",
-      "bu qimmatli qog‘ozlar bozori holatini baholash ko‘rsatkichi bo‘lib, sodir bo‘layotgan makroiqtisodiy jarayonlarni kompleks ifodalaydi. ",
-      "emitentning  qimmatli qog‘ozlarini birja kotirovka varag‘idan chiqarish protsedurasi"
+      3,
+      4,
+      2,
+      5
     ],
     "correct_option_index": 2
   },
   {
-    "question": "Kol va put opsionga investitsiyaning asosiy kamchilik tomoni shundaki",
+    "question": "Ikkiyoqlama yozuv – bu…",
     "options": [
-      "fyuchers shartnomasidan farqi yo’qligi",
-      "chegaralangan foyda keltiradi",
-      "past riskli derivativ hisoblanadi",
-      "opsion xaridoriga dividend, foiz daromadi olish imkonini bermaydi"
+      "balans tuzish",
+      "xo’jalik jarayonlarini hujjatlashtirish",
+      "xo’jalik jarayonlarini hisob registrlarida aks ettirish",
+      "xo’jalik jarayonlariga tegishli summalarini ikki va undan ortiq schyotlarda aks ettirilishi"
     ],
     "correct_option_index": 3
   },
   {
-    "question": "Fyuchersning opsiondan farqi shundaki",
+    "question": "Intellektual investitsiyalar -",
     "options": [
-      "opsion asosida fyuchers bo’lishi mumkin",
-      "hosilaviy qimmatli qog’ozlar hisoblanadi",
-      "moliyaviy aktivlarni kelajakda sotib olish imkonini beradi",
-      "derivativ bajarilganda bazisdagi aktivlarni yetkazib berish majburiyati"
+      "xo‘jalik yurituvchi sub’ektning intellektual boyliklarni xarid qilishga sarflangan mablag‘laridir",
+      "korxonaning qimmatli qog‘ozlarni sotib olish uchun qilgan xarajatlari ",
+      "Asosiy vositalar sotib olishda sarflangan mablag'lar",
+      "pul mablag‘larini korxonaning moddiy va nomoddiy aktivlariga sarflanishidan iboratdir"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Asosiy vositalarning boshlang’ich qiymat bu…......?",
+    "options": [
+      "jamlangan amortizasiya summasini chegirgan holda asosiy vositalarning boshlang’ich (tiklash) qiymati.",
+      "asosiy vositalarning chiqib ketishi bo’yicha kutilayotgan xarajatlarni chegirgan holda kutilayotgan foydali xizmat muddati oxirida asosiy vositalarni tugatish chog’ida olinadigan aktivlarning kutilayotgan summasi.",
+      "asosiy vositalarni yaratish (qurish va qurib bitkazish) yoki xarid qilish bo’yicha qilingan xarajatlarning qiymati, shu jumladan to’langan va qoplanmaydigan soliqlar (yig’imlar), shuningdek aktivni undan maqsadga muvofiq foydalanish uchun ishchi holatiga keltirish bilan bevosita bog’liq bo’lgan yyetkazib berish va montaj qilish, o’rnatish, ishga tushirish va istalgan boshqa xarajatlar.",
+      "ma’lum sanadagi amal qilayotgan bozor narxlari bo’yicha asosiy vositalarning qiymati yoki xabardor qilingan, bitimni amalga oshirishni xohlovchi, mustaqil taraflar o’rtasida bitimni amalga oshirishda aktivni sotib olish yoki majburiyatlarni bajarish uchun yetarli bo’lgan summa."
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Xizmat muddati va qiymatidan qat’iy nazar, asosiy vositalar tarkibiga kiritilmaydigan elementlar qaysi variantda to’g’ri ko’rsatilgan?",
+    "options": [
+      "maxsus va sanitariya kiyimlari, maxsus poyabzal, ko’p yillik o’simliklar, kanselyariya ashyolari (kalkulyatorlar, stol jihozlari va hokazo), oshxona inventari, shuningdek oshxona choyshablari.",
+      "maxsus va sanitariya kiyimlari, maxsus poyabzal, ko’rpa-to’shaklar, kanselyariya ashyolari (kalkulyatorlar, stol jihozlari va hokazo), oshxona inventari, kompyuter jihozlari.",
+      "mebel va ofis jihozlari, maxsus poyabzal, ko’rpa-to’shaklar, kanselyariya ashyolari (kalkulyatorlar, stol jihozlari va hokazo), oshxona inventari, shuningdek oshxona choyshablari.",
+      "maxsus va sanitariya kiyimlari, maxsus poyabzal, ko’rpa-to’shaklar, kanselyariya ashyolari (kalkulyatorlar, stol jihozlari va hokazo), oshxona inventari, shuningdek oshxona choyshablari."
     ],
     "correct_option_index": 3
+  },
+  {
+    "question": "Asosiy (operatsion) faoliyatning daromadlarini hisobga oluvchi schyotlar qaysi schyotda hisobga olinadi?",
+    "options": [
+      9000,
+      9700,
+      9500,
+      9900
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Dеbet schyot 2310 va krеdit schyot 0200 yozuvi nima",
+    "options": [
+      "yordamchi ishlab chiqarishga ishlatilgan asosiy vosita foydalanishga topshirildi",
+      "yordamchi ishlab chiqarishdagi asosiy vositalar hisobdan chiqarildi",
+      "asosiy ishlab chiqarishdagi asosiy vositalarga eskirish hisoblandi",
+      "yordamchi ishlab chiqarishda foydalanilayotgan asosiy vositalarga eskirish hisoblandi"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Quyidagilarning qaysi biri nomoddiy aktivlarga kirmaydi?",
+    "options": [
+      "Kompyutyer",
+      "Mualliflik huquqi",
+      "Gudvill",
+      "Franshiza"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Asosiy vositalarni ishlash holatida saqlab turish ularni ta’mirlash orqali amalga oshiriladi. Ular qaysilar? ",
+    "options": [
+      "joriy, o’rtacha va oxirgi",
+      "joriy, o’rtacha va dastlabki",
+      "joriy, o’rtacha",
+      "joriy, o’rtacha va kapital "
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "2024 yilda jismoniy shaxslarning daromad solig‘i necha foiz?",
+    "options": [
+      0.12,
+      0.15,
+      0.09,
+      0.1
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Asosiy vositalarni joriy ta’mirlash bu…?",
+    "options": [
+      "Asosiy vositalarni buzish.",
+      "asosiy vositalarni ishlash holatida saqlab turish maqsadida amalga oshiriladigan ta’mirlashdir. ",
+      "bazaviy va korpus detallari va uzellarini ta’mirlash, detallar va uzellarning barcha eskirgan konstruksiyalarini almashtirish yoki qayta tiklash amalga oshiriladigan ta’mirlashdir.",
+      "ta’mirlanayotgan agregatni qismlarga qisman ajratish va detallarining qismlarini qayta tiklash yoki almashtirish amalga oshiriladi."
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Bankdan olingan kreditga foiz hisoblanganda qanday buxgalteriya yozuvi beriladi",
+    "options": [
+      "Dt 6810 Kt 9610",
+      "Dt 6810 Kt 6920",
+      "Dt 9610 Kt 6920",
+      "Dt 9610 Kt 6810"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Pul oqimlari to‘g‘risidagi hisobot qaysi BHMS asosida tartibga solinadi?",
+    "options": [
+      "№21 BHMS",
+      "№1 BHMS",
+      "№9 BHMS",
+      "№6 BHMS"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Nominal qiymati 100 ning so'm bo’lgan aksiyalar 110 ming so'mga sotilganda qanday buxgalteriya yozuvi beriladi.",
+    "options": [
+      "Dt 5110 Kt 4610, Kt 8420",
+      "Dt 5110 Kt 4610, Kt 8510",
+      "Dt 5110 Kt 4610, Kt 8530",
+      "Dt 5110 Kt 4610, Kt 8410 "
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Asosiy vositalar qanday baholanadi",
+    "options": [
+      "dastlabki, tiklash, qoldiq qiymati",
+      "dastlabki, joriy, tugatish qiymati",
+      "dastlabki, qoldiq, joriy, tugatish qiymati",
+      "qoldiq, joriy, tugatish qiymati"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Mahsulot yuklab jo‘natilganda, sotilgan mahsulotning ishlab chiqarish tannarxi hisobdan chiqarildi. Qanday buxgalteriya provodkasi beriladi?",
+    "options": [
+      "Dt 9110 Kt 2510",
+      "Dt 9110 Kt 2810",
+      "Dt 9110 Kt 6010",
+      "Dt 9110 Kt 4010"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Emission daromadlar qaysi kapitalni shakllantiradi?",
+    "options": [
+      "ustav kapitali",
+      "ryezyerv kapitali ",
+      "qo’shilgan kapital",
+      "taqsimlanmagan foyda"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Qisqa muddatli moliyaviy qo’yilmalar  nima?",
+    "options": [
+      "Korxona tomonidan sotib olingan qimmatbaho qog’ozlardir",
+      "Korxonaning moliyaviy mablag’lari.",
+      "Erkin sotiladigan va bir yildan ko’p bo’lmagan muddatda egalik  qilishga qaratilgan qimmatbaho qog’ozlardir.",
+      "Daromad ko’rish maqsadida korxona tomonidan chiqarilgan qimmatbaho  qog’oz"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Asosiy vositalarga qachondan boshlab eskirish hisoblanadi?",
+    "options": [
+      "Asosiy vositalar tarkibiga qabul qilingandan keyingi yildan boshlab ",
+      " Asosiy vositalar tarkibiga qabul qilingan va ishga tushirilgandan sanadan boshlanadi",
+      "Asosiy vositalar tarkibiga qabul qilingandan so’ng keyingi oyning 1-sanasidan boshlab",
+      "Asosiy vosita ta’mirga muhtoj bulgandan boshlab "
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Aktivlar nechta turga bo’linadi?",
+    "options": [
+      5,
+      3,
+      2,
+      4
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Qaysi bahoda tayyor mahsulot realizatsiya qilinadi",
+    "options": [
+      "Adolatli bahoda",
+      "Hisob bahosida",
+      "Bozor bahosida",
+      "Haqiqiy tannarxda"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Asоsiy хarajatlar",
+    "options": [
+      "mahsulоtni ishlab chiqarish bilan bоg’liq bo’lgan barcha хarajatlar",
+      "matеriallar хarajati",
+      "barcha bilvоsita хarajatlar",
+      "mahsulоtni ishlab chiqqan sехning barcha хarajatlari"
+    ],
+    "correct_option_index": 0
   }
 ]
