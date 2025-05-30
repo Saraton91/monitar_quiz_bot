@@ -15,7 +15,7 @@ bot = Bot(token=API_TOKEN, default=DefaultBotProperties(parse_mode="HTML"))
 dp = Dispatcher(storage=MemoryStorage())
 
 # Загружаем вопросы
-with open("final_moliya_test.json", "r", encoding="utf-8") as f:
+with open("fully_shuffled_questions.json", "r", encoding="utf-8") as f:
     questions = json.load(f)
 
 user_states = {}
@@ -47,7 +47,7 @@ async def handle_answer(callback: types.CallbackQuery):
     question = user_states.get(user_id)
 
     if question:
-        correct_index = question["correct_option_index"]
+        correct_index = question["correct_option"]
         selected_text = question["options"][selected_index]
         correct_text = question["options"][correct_index]
         
